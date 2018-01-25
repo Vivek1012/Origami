@@ -1,0 +1,36 @@
+﻿[
+
+"images/birds/crow/origami-crow-00A.jpg",
+"<h2>00A.This is the front side of paper.</h2>",
+
+"images/birds/crow/origami-crow-00B.jpg",
+"<h2>00B.This is the back side of paper.</h2>",
+
+"images/birds/crow/origami-crow-01.jpg",
+"<h2>01.Let us start from the bird base .</h2>",
+
+"images/birds/crow/origami-crow-02.jpg",
+"<h2>02.Apply two valley-folds of the step #1. </h2>",
+
+"images/birds/crow/origami-crow-03.jpg",
+"<h2>03.Unfold two valley-folds that you have just applied in the step #2.</h2>",
+
+"images/birds/crow/origami-crow-04.jpg",
+"<h2>04.Apply two inside reverse-folds of the step #3.</h2>",
+
+"images/birds/crow/origami-crow-05.jpg",
+"<h2>05.Apply the horizontal valley-fold of the step #4. Prepare to turn the origami crow model over.</h2>",
+
+"images/birds/crow/origami-crow-06.jpg",
+"<h2>06.Turn the origami crow model over. Prepare to apply a vertical valley-fold.</h2>",
+
+"images/birds/crow/origami-crow-07.jpg",
+"<h2>07.Apply the valley-fold of the step #6. </h2>",
+
+"images/birds/crow/origami-crow-08.jpg",
+"<h2>08.Apply the inside reverse-fold of the step #7. </h2>",
+
+"images/birds/crow/origami-crow-09.jpg",
+"<h2>09.Let the origami crow stand on some object. Congratulation! </h2>"
+
+]

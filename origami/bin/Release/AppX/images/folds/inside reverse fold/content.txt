@@ -1,0 +1,18 @@
+﻿[
+"images/folds/inside reverse fold/fold-reverse-inside-01.jpg",
+"<h2>1.Here it is a kite base folded in half and we want to apply an inside reverse-fold.</h2>",
+
+"images/folds/inside reverse fold/fold-reverse-inside-02.jpg",
+"<h2>2.A typical diagram of inside reverse-fold consists of a S-shaped arrow with a mountain-fold which is shown in (A).</h2>",
+
+"images/folds/inside reverse fold/fold-reverse-inside-03.jpg",
+"<h2>3.Now, let's apply the inside reverse-fold.</h2>",
+
+"images/folds/inside reverse fold/fold-reverse-inside-04.jpg",
+"<h2>4.After you completed applying the inside reverse-fold, you will get the one shown on the left.</h2>",
+
+"images/folds/inside reverse fold/fold-reverse-inside-05.jpg",
+"<h2>5.In a typical diagram, only one mountain-fold and one valley-fold are given (shown in (A)</h2>"
+
+
+]

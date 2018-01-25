@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="37461kunjal.OrigamiforWindows8" Version="1.0.0.3" Publisher="CN=6D45D15F-FCC8-49E0-9917-3708C2237BB5" />
+  <Properties>
+    <DisplayName>Origami for Windows 8</DisplayName>
+    <PublisherDisplayName>Vivek Talreja</PublisherDisplayName>
+    <Logo>images\storelogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" StartPage="default.html">
+      <VisualElements DisplayName="Origami for Windows 8" Logo="images\logo.png" SmallLogo="images\smalllogo.png" Description="origami" ForegroundText="light" BackgroundColor="#0ae4e4">
+        <DefaultTile ShowName="noLogos" />
+        <SplashScreen Image="images\splashscreen.png" BackgroundColor="#0ae4e4" />
+      </VisualElements>
+      <Extensions>
+        <Extension Category="windows.search" />
+      </Extensions>
+    </Application>
+  </Applications>
+</Package>

@@ -1,0 +1,57 @@
+﻿["images/boat/catamaran2/origami-boat-00A.jpg",
+"<h2>00A.This is the front side of paper. You may use any kind of paper to fold this origami boat, catamaran.</h2>",
+
+"images/boat/catamaran2/origami-boat-00B.jpg",
+"<h2>00B.This is the back side of paper.</h2>",
+
+"images/boat/catamaran2/origami-boat-01.jpg",
+"<h2>01.Let us start with the backside of the paper facing up.</h2>",
+
+"images/boat/catamaran2/origami-boat-02.jpg",
+"<h2>02.Mountain-fold in half horizontally and then unfold.</h2>",
+
+"images/boat/catamaran2/origami-boat-03.jpg",
+"<h2>03.Apply the horizontal gate-fold of the step #2. Prepare to apply four valley-folds.</h2>",
+
+"images/boat/catamaran2/origami-boat-04.jpg",
+"<h2>04.Apply four valley-folds of the step #3. Prepare to unfold all four valley-folds that you have just applied.</h2>",
+
+"images/boat/catamaran2/origami-boat-05.jpg",
+"<h2>05.Unfold four previous valley-folds of the step #4. Prepare to apply an inside reverse-fold .</h2>",
+
+"images/boat/catamaran2/origami-boat-06.jpg",
+"<h2>06.Start applying the inside reverse-fold of the step #5.</h2>",
+
+"images/boat/catamaran2/origami-boat-07.jpg",
+"<h2>07.Continue applying the inside reverse-fold of the step #5.</h2>",
+
+"images/boat/catamaran2/origami-boat-08.jpg",
+"<h2>08.Keep applying the inside reverse-fold of the step #5.</h2>",
+
+"images/boat/catamaran2/origami-boat-09.jpg",
+"<h2>09.Still continue applying the inside reverse-fold of the step #5.</h2>",
+
+"images/boat/catamaran2/origami-boat-10.jpg",
+"<h2>10.Finish applying the inside reverse-fold of the step #5. Prepare to apply three more inside reverse-folds .</h2>",
+
+"images/boat/catamaran2/origami-boat-11.jpg",
+"<h2>11.Apply three inside reverse-folds of the step #10. Prepare to turn the origami boat model over.</h2>",
+
+"images/boat/catamaran2/origami-boat-12.jpg",
+"<h2>12.Turn the origami boat model over. Prepare to apply two vertical valley-folds</h2>",
+
+"images/boat/catamaran2/origami-boat-13.jpg",
+"<h2>13.Apply two vertical valley-folds of the step #12. Prepare to apply a horizontal valley-fold .</h2>",
+
+"images/boat/catamaran2/origami-boat-14.jpg",
+"<h2>14.Apply the horizontal valley-fold of the step #13. Prepare to rotate the origami boat model by 90 degrees.</h2>",
+
+"images/boat/catamaran2/origami-boat-15.jpg",
+"<h2>15.Rotate the origami boat model by 90 degrees Prepare to pull two layers following the arrow directions.</h2>",
+
+"images/boat/catamaran2/origami-boat-16.jpg",
+"<h2>16.Pull two layers following the arrow directions of the step #15.</h2>",
+
+"images/boat/catamaran2/origami-boat-17.jpg",
+"<h2>17.Congratulation! You have just completed making a simple origami catamaran boat .</h2>"
+]

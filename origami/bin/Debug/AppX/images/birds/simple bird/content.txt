@@ -1,0 +1,58 @@
+﻿[
+"images/birds/simple bird/origami-bird-00A.jpg",
+"<h2>00A.This is the front side of paper.</h2>",
+
+"images/birds/simple bird/origami-bird-00B.jpg",
+"<h2>00B.This is the back side of paper.Keep in your mind that the front side is the shinier one.</h2>",
+
+"images/birds/simple bird/origami-bird-01.jpg",
+"<h2>01.Let's start with a paper's back side facing up.Prepare for a valley-fold along a diagonal line </h2>",
+
+"images/birds/simple bird/origami-bird-02.jpg",
+"<h2>02.Apply the valley-fold of the step #1.Prepare to unfold.</h2>",
+
+"images/birds/simple bird/origami-bird-03.jpg",
+"<h2>03.Unfold the previous valley-fold along the diagonal line.Prepare for two valley-folds.</h2>",
+
+"images/birds/simple bird/origami-bird-04.jpg",
+"<h2>04.Apply two valley-folds of the step #3.This is called kite base since the shape resembles a kite.</h2>",
+
+"images/birds/simple bird/origami-bird-05.jpg",
+"<h2>05.Apply the mountain-fold of the step #4.Prepare for two valley-folds.</h2>",
+
+"images/birds/simple bird/origami-bird-06.jpg",
+"<h2>06.Apply two valley-folds of the step #5.Prepare for three valley-folds and one mountain-fold.</h2>",
+
+"images/birds/simple bird/origami-bird-07.jpg",
+"<h2>07.Apply the reverse-fold of the step #6.This reverse-fold makes two crease lines along the arrow indicated.</h2>",
+
+"images/birds/simple bird/origami-bird-08.jpg",
+"<h2>08.Unfold the previous reverse-fold.This is the same as the step #6 except we have two crease lines.</h2>",
+
+"images/birds/simple bird/origami-bird-09.jpg",
+"<h2>09.Unfold two valley-folds made from the step #6.We are in the same state as the step #5 except there are four crease lines.</h2>",
+
+"images/birds/simple bird/origami-bird-10.jpg",
+"<h2>10.Prepare to apply the crease pattern (CP) shown on the left. </h2>",
+
+"images/birds/simple bird/origami-bird-11.jpg",
+"<h2>11.Apply the CP of the step #10.Prepare for one valley-fold followed by one mountain-fold.</h2>",
+
+"images/birds/simple bird/origami-bird-12.jpg",
+"<h2>12.Apply the inside crimp-fold of the step #11.Prepare for two valley-folds.</h2>",
+
+"images/birds/simple bird/origami-bird-13.jpg",
+"<h2>13.Apply two valley-folds of the step #12.Prepare for another valley-fold.</h2>",
+
+"images/birds/simple bird/origami-bird-14.jpg",
+"<h2>14.Apply the valley-fold of the step #13.Prepare for one valley-fold and one mountain-fold.</h2>",
+
+"images/birds/simple bird/origami-bird-15.jpg",
+"<h2>15.These two folds are called inside reverse-fold .</h2>",
+
+"images/birds/simple bird/origami-bird-16.jpg",
+"<h2>16.Apply the inside reverse-fold of the step #15.</h2>",
+
+"images/birds/origami-bird.jpg",
+"<h2>17.Congratulation! You have just completed making a traditional origami bird.</h2>"
+]

@@ -1,0 +1,89 @@
+﻿[
+"images/fish/angel fish/origami-angelfish-00A.jpg",
+"<h2>00A.This is the front side of paper.</h2>",
+
+"images/fish/angel fish/origami-angelfish-00B.jpg",
+"<h2>00B.This is the back side of paper.</h2>",
+
+"images/fish/angel fish/origami-angelfish-01.jpg",
+"<h2>01.Let's start with the front side of the paper facing up. Prepare to apply a vertical valley-fold and then unfold.</h2>",
+
+"images/fish/angel fish/origami-angelfish-02.jpg",
+"<h2>02.Apply the vertical valley-fold of the step #1 and then unfold. </h2>",
+
+"images/fish/angel fish/origami-angelfish-03.jpg",
+"<h2>03.Apply the horizontal valley-fold of the step #2 and then unfold. </h2>",
+
+"images/fish/angel fish/origami-angelfish-04.jpg",
+"<h2>04.Turn the paper over. Prepare to apply a diagonal valley-fold and then unfold.</h2>",
+
+"images/fish/angel fish/origami-angelfish-05.jpg",
+"<h2>05.Apply the diagonal valley-fold of the step #4 and then unfold. </h2>",
+
+"images/fish/angel fish/origami-angelfish-06.jpg",
+"<h2>06.Apply the diagonal valley-fold of the step #5. Prepare to make a square base.</h2>",
+
+"images/fish/angel fish/origami-angelfish-07.jpg",
+"<h2>07.Make the square base out of the instructional link on the step #6. Prepare to apply two valley-folds.</h2>",
+
+"images/fish/angel fish/origami-angelfish-08.jpg",
+"<h2>08.Apply two valley-folds of the step #7. Prepare to turn the model over.</h2>",
+
+"images/fish/angel fish/origami-angelfish-09.jpg",
+"<h2>09.Turn the model over. Prepare to apply two valley-folds.</h2>",
+
+"images/fish/angel fish/origami-angelfish-10.jpg",
+"<h2>10.Apply two valley-folds of the step #9. Prepare to open the right side.</h2>",
+
+"images/fish/angel fish/origami-angelfish-11.jpg",
+"<h2>11.Let's cpncentrate on the right side. Prepare to take the inner layer out.</h2>",
+
+"images/fish/angel fish/origami-angelfish-12.jpg",
+"<h2>12.Take the inner layer out completely. Prepare to work on the left side.</h2>",
+
+"images/fish/angel fish/origami-angelfish-13.jpg",
+"<h2>13.Prepare to pull the inner layer out.</h2>",
+
+"images/fish/angel fish/origami-angelfish-14.jpg",
+"<h2>14.Pull the inner layer out completely. Prepare to apply a valley-fold.</h2>",
+
+"images/fish/angel fish/origami-angelfish-15.jpg",
+"<h2>15.Apply the valley-fold of the step #14. Prepare to apply two mountain-folds.</h2>",
+
+"images/fish/angel fish/origami-angelfish-16.jpg",
+"<h2>16.Apply two mountain-folds of the step #15. Let's work on the left side. </h2>",
+
+"images/fish/angel fish/origami-angelfish-17.jpg",
+"<h2>17.Apply the valley-fold of the step #16. Prepare to apply two mountain-fold.</h2>",
+
+"images/fish/angel fish/origami-angelfish-18.jpg",
+"<h2>18.Apply two mountain-folds of the step #17. Prepare to turn the model over.</h2>",
+
+"images/fish/angel fish/origami-angelfish-19.jpg",
+"<h2>19.Turn the model over. Prepare to repeat the steps #14-18.</h2>",
+
+"images/fish/angel fish/origami-angelfish-20.jpg",
+"<h2>20.Repeat the stesp #14-18. Prepare to open the model from the bottom.</h2>",
+
+"images/fish/angel fish/origami-angelfish-21.jpg",
+"<h2>21.Open the model from the bottom. Prepare to crush the top.</h2>",
+
+"images/fish/angel fish/origami-angelfish-22.jpg",
+"<h2>22.Start to crush the top.</h2>",
+
+"images/fish/angel fish/origami-angelfish-23.jpg",
+"<h2>23.Keep crushing the top.</h2>",
+
+"images/fish/angel fish/origami-angelfish-24.jpg",
+"<h2>24.Continue crushing the top.</h2>",
+
+"images/fish/angel fish/origami-angelfish-25.jpg",
+"<h2>25.Complete the crushing of the top. Prepare to make the model flat.</h2>",
+
+"images/fish/angel fish/origami-angelfish-26.jpg",
+"<h2>26.Make the model flat. Prepare to lay the model down.</h2>",
+
+"images/fish/angel fish/origami-angelfish-27.jpg",
+"<h2>27.Lay the model down.Congratulation! You have completed making an origami angelfish.</h2>"
+
+]

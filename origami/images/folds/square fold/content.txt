@@ -1,0 +1,41 @@
+﻿[
+"images/folds/square fold/origami-fold-00A.jpg",
+"<h2>00A.The square-fold symbol is represented by two valley-folded and one mountain-folded lines.</h2>",
+
+"images/folds/square fold/origami-fold-00B.jpg",
+"<h2>00B.If we apply square-fold, then a paper will be transformed into a square base.</h2>",
+
+"images/folds/square fold/origami-fold-01.jpg",
+"<h2>01.We can start with a square paper. Prepare to apply a horizontal valley-fold and then unfold.</h2>",
+
+"images/folds/square fold/origami-fold-02.jpg",
+"<h2>02.Apply the horizontal valley-fold of the step #1 and then unfold. </h2>",
+
+"images/folds/square fold/origami-fold-03.jpg",
+"<h2>03.Apply the vertical valley-fold of the step #2 and then unfold.</h2>",
+
+"images/folds/square fold/origami-fold-04.jpg",
+"<h2>04.Rotate the paper by 45 degrees. </h2>",
+
+"images/folds/square fold/origami-fold-05.jpg",
+"<h2>05.Apply the horizontal mountain-fold of the step #4 and then unfold. </h2>",
+
+"images/folds/square fold/origami-fold-06.jpg",
+"<h2>06.Prepare to apply the crease pattern (CP) shown on the left. </h2>",
+
+"images/folds/square fold/origami-fold-07.jpg",
+"<h2>07.Start applying two valley-folds.</h2>",
+
+"images/folds/square fold/origami-fold-08.jpg",
+"<h2>08.Complete applying two valley-folds. Prepare to apply two mountain-folds.</h2>",
+
+"images/folds/square fold/origami-fold-09.jpg",
+"<h2>09.Apply two mountain-folds of the step #8.</h2>",
+
+"images/folds/square fold/origami-fold-10.jpg",
+"<h2>10.Prepare to press the top down.</h2>",
+
+"images/folds/square fold/origami-fold-square.jpg",
+"<h2>11.Press the top down. You have just completed applying a square-fold.</h2>"
+
+]

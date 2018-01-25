@@ -1,0 +1,1130 @@
+﻿[ 
+
+{ "backgroundImage" : "images/folds/origami-fold-mountain.jpg",
+    "content" : "<h3>Mountain-fold is one of two important folding technique in origami. Equally important folding technique is Valley-fold. If you know these two techniques, then you can fold almost all of simple origami models.</h3><br /><br /> ",
+   
+    
+    "group" :
+	 {
+	 "backgroundImage1" : "images/folds/origami-fold-Z.jpg",	
+	    "backgroundImage" : "images/folds/origami-fold-mountain.jpg",
+        "groupImage" : "images/animals/easy-origami-cat-01.jpg",
+        "key" : "1",
+        "rank" : "",
+       
+        "shortTitle" : "folds",
+        "title" : "Folds",
+		"description" : "Origami is the art of folding paper into a shape representing an object. There are many folding techniques that you need to learn to form a shape out of a piece of paper. Two most important techniques are valley-fold and mountain-fold. At least, you must know what they are. "
+
+      },
+    
+    
+    "description": "Mountain-fold is the important folding technique in origami, it is represented by blue dashed line.",
+    "shortTitle" : "Moutain",
+    "tileImage" : "images/folds/origami-fold-mountain.jpg",
+    "title" : "Mountain Fold",
+  
+	"path":"images/folds/mountain fold/content.txt"
+
+
+  },
+
+  
+{ "backgroundImage" : "images/folds/origami-fold-valley.jpg",
+    "content" : "<h3>Valley-fold is one of two important folding technique in origami. Equally important folding technique is Mountain-fold. If you know these two techniques, then you can fold almost all of simple origami models.</h3><br /><br /> ",
+   
+    
+    "group" :
+	 {
+	 "backgroundImage1" : "images/folds/origami-fold-Z.jpg",	
+	      "backgroundImage" : "images/folds/origami-fold-valley.jpg",
+        "groupImage" : "images/animals/easy-origami-cat-01.jpg",
+        "key" : "1",
+        "rank" : "",
+       
+        "shortTitle" : "folds",
+        "title" : "Folds",
+		"description" : "Origami is the art of folding paper into a shape representing an object. There are many folding techniques that you need to learn to form a shape out of a piece of paper. Two most important techniques are valley-fold and mountain-fold. At least, you must know what they are. "
+},
+    
+    
+    "description": "Valley-fold is the important folding technique in origami, it is represented by red dashed line.",
+    "shortTitle" : "valley",
+    "tileImage" : "images/folds/origami-fold-valley.jpg",
+    "title" : "Valley Fold",
+  
+  "path":"images/folds/vally fold/content.txt"
+
+  
+  },
+
+  
+{ "backgroundImage" : "images/folds/origami-fold-reverse-inside.jpg",
+    "content" : "<h3>There are two kinds of reverse fold, Inside and outside reverse folds. These two folding techniques are very important in origami. </h3>",
+   
+    
+    "group" :
+	 {
+	   "backgroundImage1" : "images/folds/origami-fold-Z.jpg",	
+	    "backgroundImage" : "images/folds/origami-fold-reverse-inside.jpg",
+        "groupImage" : "images/animals/easy-origami-cat-01.jpg",
+        "key" : "1",
+        "rank" : "",
+       
+        "shortTitle" : "folds",
+        "title" : "Folds",
+		
+		"description" : "Origami is the art of folding paper into a shape representing an object. There are many folding techniques that you need to learn to form a shape out of a piece of paper. Two most important techniques are valley-fold and mountain-fold. At least, you must know what they are. "
+
+      },
+    
+    
+    
+    "description": "if you encounter a diagram with a symbol of one valley-fold and one mountain-fold connected together, then it is the inside reverse-fold.",
+    "shortTitle" : "reverse-inside",
+    "tileImage" : "images/folds/origami-fold-reverse-inside.jpg",
+    "title" : "Reverse Inside",
+  "path":"images/folds/inside reverse fold/content.txt"
+
+  },
+
+  
+  
+{ "backgroundImage" : "images/folds/origami-fold-reverse-outside.jpg",
+    "content" : "There are two kinds of reverse fold, Inside and outside reverse folds. These two folding techniques are very important in origami. ",
+   
+    
+    "group" :
+	 {
+	   "backgroundImage1" : "images/folds/origami-fold-Z.jpg",	
+	    "backgroundImage" : "images/folds/origami-fold-reverse-outside.jpg",
+        "groupImage" : "images/animals/easy-origami-cat-01.jpg",
+        "key" : "1",
+        "rank" : "",
+       
+        "shortTitle" : "folds",
+        "title" : "Folds",
+		"description" : "Origami is the art of folding paper into a shape representing an object. There are many folding techniques that you need to learn to form a shape out of a piece of paper. Two most important techniques are valley-fold and mountain-fold. At least, you must know what they are. "
+
+      },
+    
+    
+    
+    "description": "if you encounter a diagram with a symbol of one valley-fold and one mountain-fold connected together, then it is the outside reverse-fold.",
+    
+    "shortTitle" : "reverse-outside",
+    "tileImage" : "images/folds/origami-fold-reverse-outside.jpg",
+    "title" : "Reverse Outside",
+"path":"images/folds/outside reverse fold/content.txt"
+
+  },
+
+  
+{ "backgroundImage" : "images/folds/origami-fold-gate.jpg",
+    "content" : "<h3>Gate fold is very common folding technique in origami. You will be seeing this technique over and over, so you should get familiar with this.</h3> ",
+   
+    
+    "group" :
+	 {"backgroundImage1" : "images/folds/origami-fold-Z.jpg",	
+	   
+	    "backgroundImage" : "images/folds/origami-fold-gate.jpg",
+        "groupImage" : "images/animals/easy-origami-cat-01.jpg",
+        "key" : "1",
+        "rank" : "",
+       
+        "shortTitle" : "folds",
+        "title" : "Folds",
+		"description" : "Origami is the art of folding paper into a shape representing an object. There are many folding techniques that you need to learn to form a shape out of a piece of paper. Two most important techniques are valley-fold and mountain-fold. At least, you must know what they are. "
+
+      },
+    
+    
+    
+    "description": "There are times when you want to make 4 equal parts, in this case you apply gate fold.",
+    "shortTitle" : "gate fold",
+    "tileImage" : "images/folds/origami-fold-gate.jpg",
+    "title" : "Gate Fold",
+"path":"images/folds/gate fold/content.txt"
+
+  },
+
+  
+  
+{ "backgroundImage" : "images/folds/origami-fold-stair.jpg",
+    "content" : "<h3>If you want to fold a paper in three equal parts, you need to apply a Z-fold. If you want to fold a paper in four equal parts, you need to apply a gate-fold. If you want to fold a paper in five equal parts, you need to apply a stair fold. The name STAIR FOLD is given here since the final shape resembles a stair.</h3> ",
+   
+    
+    "group" :
+	 {
+	   "backgroundImage1" : "images/folds/origami-fold-Z.jpg",	
+	    "backgroundImage" : "images/folds/origami-fold-stair.jpg",
+        "groupImage" : "images/animals/easy-origami-cat-01.jpg",
+        "key" : "1",
+        "rank" : "",
+       
+        "shortTitle" : "folds",
+        "title" : "Folds",
+		"description" : "Origami is the art of folding paper into a shape representing an object. There are many folding techniques that you need to learn to form a shape out of a piece of paper. Two most important techniques are valley-fold and mountain-fold. At least, you must know what they are. "
+      },
+    
+    
+    
+    "description": "There are times when you want to make 5 equal parts, in this case you apply Stair fold.",
+    
+    "shortTitle" : "Stair fold",
+    "tileImage" : "images/folds/origami-fold-stair.jpg",
+    "title" : "Stair Fold",
+"path":"images/folds/stair fold/content.txt"
+
+  },
+
+  
+  
+{ "backgroundImage" : "images/folds/origami-fold-balloon.jpg",
+    "content" : "<h3>Balloon-fold is a folding technique which convert a square paper into a balloon base.</h3> ",
+   
+    
+    "group" :
+	 {
+	   "backgroundImage1" : "images/folds/origami-fold-Z.jpg",	
+	    "backgroundImage" : "images/folds/origami-fold-balloon.jpg",
+        "groupImage" : "images/animals/easy-origami-cat-01.jpg",
+        "key" : "1",
+        "rank" : "",
+       
+        "shortTitle" : "folds",
+        "title" : "Folds",
+		"description" : "Origami is the art of folding paper into a shape representing an object. There are many folding techniques that you need to learn to form a shape out of a piece of paper. Two most important techniques are valley-fold and mountain-fold. At least, you must know what they are. "
+      },
+    
+    
+    
+   "description": "Balloon-fold is a folding technique which convert a square paper into a balloon base.",
+    "shortTitle" : "balloon fold",
+    "tileImage" : "images/folds/origami-fold-balloon.jpg",
+    "title" : "Balloon Fold",
+"path":"images/folds/ballon fold/content.txt"
+
+  },
+
+  
+  
+{ "backgroundImage" : "images/folds/origami-fold-square.jpg",
+    "content" : "<h3>Square-fold is a folding technique which convert a square paper into a square base.</h3> ",
+   
+    
+    "group" :
+	 {
+	   "backgroundImage1" : "images/folds/origami-fold-Z.jpg",	
+	    "backgroundImage" : "images/folds/origami-fold-square.jpg",
+        "groupImage" : "images/animals/easy-origami-cat-01.jpg",
+        "key" : "1",
+        "rank" : "",
+       
+        "shortTitle" : "folds",
+        "title" : "Folds",
+		"description" : "Origami is the art of folding paper into a shape representing an object. There are many folding techniques that you need to learn to form a shape out of a piece of paper. Two most important techniques are valley-fold and mountain-fold. At least, you must know what they are. "
+},
+    
+    
+    
+    "description" : "Square-fold is a folding technique which convert a square paper into a square base.",
+    "shortTitle" : "square fold",
+    "tileImage" : "images/folds/origami-fold-square.jpg",
+    "title" : "Square Fold",
+"path":"images/folds/square fold/content.txt"
+
+
+  },
+
+  
+  
+{ "backgroundImage" : "images/folds/origami-fold-cushion.jpg",
+    "content" : "<h3>Cution-fold is a folding technique which convert the paper into a cution base.</h3> ",
+   
+    
+    "group" :
+	 {
+	   "backgroundImage1" : "images/folds/origami-fold-Z.jpg",	
+	    "backgroundImage" : "images/folds/origami-fold-cushion.jpg",
+        "groupImage" : "images/animals/easy-origami-cat-01.jpg",
+        "key" : "1",
+        "rank" : "",
+       
+        "shortTitle" : "folds",
+        "title" : "Folds",
+		"description" : "Origami is the art of folding paper into a shape representing an object. There are many folding techniques that you need to learn to form a shape out of a piece of paper. Two most important techniques are valley-fold and mountain-fold. At least, you must know what they are. "
+},
+    
+    
+    
+    "description" : "if there is a cushion fold, there will be a symbol consisting of six valley-folds.",
+    "shortTitle" : "cushion fold",
+    "tileImage" : "images/folds/origami-fold-cushion.jpg",
+    "title" : "Cushion Fold",
+"path":"images/folds/cushion fold/content.txt"
+
+  },
+
+  
+  
+{ "backgroundImage" : "images/folds/origami-fold-squash.jpg",
+    "content" : "<h3>Squash fold is very common folding technique in origami. So you should get familiar with this folding technique. In this tutorial, I will start with either square or balloon base to show what squash-fold is.</h3> ",
+   
+    
+    "group" :
+	 {
+	   "backgroundImage1" : "images/folds/origami-fold-Z.jpg",	
+	    "backgroundImage" : "images/folds/origami-fold-squash.jpg",
+        "groupImage" : "images/animals/easy-origami-cat-01.jpg",
+        "key" : "1",
+        "rank" : "",
+       
+        "shortTitle" : "folds",
+        "title" : "Folds",
+		"description" : "Origami is the art of folding paper into a shape representing an object. There are many folding techniques that you need to learn to form a shape out of a piece of paper. Two most important techniques are valley-fold and mountain-fold. At least, you must know what they are. "
+},
+    
+    
+    
+    "description" : " if you encounter a diagram with a symbol of one valley-fold and one mountain-fold on the front layer and one valley-fold on the back layer, then it is the squash-fold.",
+    "shortTitle" : "squash fold",
+    "tileImage" : "images/folds/origami-fold-squash.jpg",
+    "title" : "Squash Fold",
+"path":"images/folds/squash fold/content.txt"
+
+  },
+
+  
+{ "backgroundImage" : "images/folds/origami-fold-petal.jpg",
+    "content" : "<h3>Squash fold is very common folding technique in origami. So you should get familiar with this folding technique. In this tutorial, I will start with either square or balloon base to show what squash-fold is.</h3> ",
+   
+    
+    "group" :
+	 {
+	   "backgroundImage1" : "images/folds/origami-fold-Z.jpg",	
+	    "backgroundImage" : "images/folds/origami-fold-petal.jpg",
+        "groupImage" : "images/animals/easy-origami-cat-01.jpg",
+        "key" : "1",
+        "rank" : "",
+       
+        "shortTitle" : "folds",
+        "title" : "Folds",
+		"description" : "Origami is the art of folding paper into a shape representing an object. There are many folding techniques that you need to learn to form a shape out of a piece of paper. Two most important techniques are valley-fold and mountain-fold. At least, you must know what they are. "
+},
+    
+    
+    
+    "description" : "When you prepare for a bird base, you must apply this folding technique to complete the base.",
+    "shortTitle" : "petal fold",
+    "tileImage" : "images/folds/origami-fold-petel.jpg",
+    "title" : "petal Fold",
+"path":"images/folds/petel fold/content.txt"
+
+  },
+
+
+
+
+{ "backgroundImage" : "images/animals/easy-origami-cat.jpg",
+    
+    "content" : "<h3>This easy origami cat is probably the simplest origami cat you will ever find.Before working on this model, you need to know what valley-fold and mountain-fold are. If you know these two folding techniques, then you will have no problem in making origami cat. </h3> ",
+   
+    
+    "group" :
+	 {  "backgroundImage1" : "images/animals/animals.jpg",
+	    "backgroundImage" : "images/animals/easy-origami-cat.jpg",
+        "groupImage" : "images/animals/easy-origami-cat-01.jpg",
+        "key" : "2",
+        "rank" : "",
+       
+		
+        "shortTitle" : "Animals",
+        "title" : "Animals",
+		"description" : "Various kinds of origami animals are presented here. If you are novice in origami, try folding techniques first and if you become comfortable with them, you can work on more advanced models."
+      
+      },
+    
+    "description":"This easy origami cat is probably the simplest origami cat you will ever find .",
+    
+    
+    "shortTitle" : "Cat",
+    "tileImage" : "images/animals/easy-origami-cat.jpg",
+   	"title" : "Oragami Cat",
+"path":"images/animals/cat/content.txt"
+  },
+
+
+
+  { 
+   "backgroundImage" : "images/animals/easy-origami-dog.jpg",
+    "content" : "<h3>This easy origami dog might be the easiest origami dog you might have folded with a few folding steps.Before working on this model, you need to know what valley-fold and mountain-fold are. If you know these two folding techniques, then you will have no problem in making origami dog. </h3> ",
+   
+    
+    "group" : {
+	"backgroundImage1" : "images/animals/animals.jpg",
+	    
+	 "backgroundImage" : "images/animals/easy-origami-dog.jpg",
+        "groupImage" : "images/animals/cat/easy-origami-cat-01.jpg",
+        "key" : "2",
+        "rank" : "",
+       
+        "shortTitle" : "Animals",
+        "title" : "Animals",
+		"description" : "Various kinds of origami animals are presented here. If you are novice in origami, try folding techniques first and if you become comfortable with them, you can work on more advanced models."
+      
+      },
+    
+    
+    
+    "description" : " This easy origami dog might be the easiest origami dog you might have folded with a few folding steps.",
+    "shortTitle" : "dog",
+    "tileImage" : "images/animals/easy-origami-dog.jpg",
+    "title" : "Origami Dog",
+  "path":"images/animals/dog/content.txt"
+
+  },
+
+
+  { 
+   "backgroundImage" : "images/animals/origami-elephant-shouting.jpg",
+    "content" : "<h3>This page is for those who want the instruction to fold a shouting origami elephant.This shouting origami elephant is a good example to learn an outside reverse-fold.If you are ready, then let's get started.</h3> ",
+   
+    
+    "group" : { 
+	"backgroundImage1" : "images/animals/animals.jpg",
+	    "backgroundImage" : "images/animals/origami-elephant-shouting.jpg",
+        "groupImage" : "images/animals/cat/easy-origami-cat-01.jpg",
+        "key" : "2",
+        "rank" : "",
+       
+        "shortTitle" : "Animals",
+        "title" : "Animals",
+		"description" : "Various kinds of origami animals are presented here. If you are novice in origami, try folding techniques first and if you become comfortable with them, you can work on more advanced models."
+      
+      },
+    
+    
+    
+    "description" : "This shouting origami elephant is a good example to learn an outside reverse-fold. ",
+    "shortTitle" : "elephant",
+    "tileImage" : "images/animals/origami-elephant-shouting.jpg",
+    "title" : "Elephant Shouting",
+	"path":"images/animals/elephant/content.txt"
+
+  },
+
+  { 
+   "backgroundImage" : "images/animals/origami-fox-traditional.jpg",
+    "content" : "This traditional talking origami fox allows you to simulate a talking fox. The special folding techniques that you will learn from this model is making a mouth.",
+   
+    
+    "group" : { "backgroundImage1" : "images/animals/animals.jpg",
+	    "backgroundImage" : "images/animals/origami-fox-traditional.jpg",
+        "groupImage" : "images/animals/cat/easy-origami-cat-01.jpg",
+        "key" : "2",
+        "rank" : "",
+       
+        "shortTitle" : "Animals",
+        "title" : "Animals",
+		"description" : "Various kinds of origami animals are presented here. If you are novice in origami, try folding techniques first and if you become comfortable with them, you can work on more advanced models."
+      
+      },
+    
+    
+    
+    "description" : " This traditional talking origami fox allows you to simulate a talking fox.",
+    "shortTitle" : "fox",
+    "tileImage" : "images/animals/origami-fox-traditional.jpg",
+    "title" : "Fox Traditional",
+	"path":"images/animals/fox/content.txt"
+
+  },
+
+  { 
+   "backgroundImage" : "images/animals/origami-panda-face.jpg",
+    "content" : "<h3>This face of origami panda requires you to apply folding techniques such as rabbit ear-fold, asymmetric squash-fold.<br />You may use any kind of paper to fold the origami panda. Make sure the paper cap you use is a square (all sides are equal and all the angles equal 90 degrees). The paper I am using here is 15cm x 15cm square one. </h3> ",
+   
+    
+    "group" : { "backgroundImage1" : "images/animals/animals.jpg",
+	    "backgroundImage" : "images/animals/origami-panda-face.jpg",
+        "groupImage" : "images/animals/cat/easy-origami-cat-01.jpg",
+        "key" : "2",
+        "rank" : "",
+       
+        "shortTitle" : "Animals",
+        "title" : "Animals",
+      "description" : "Various kinds of origami animals are presented here. If you are novice in origami, try folding techniques first and if you become comfortable with them, you can work on more advanced models."
+      },
+    
+    
+    
+    "description" : "This face of origami panda requires you to apply folding techniques such as rabbit ear-fold, asymmetric squash-fold.",
+    "shortTitle" : "panda",
+    "tileImage" : "images/animals/origami-panda-face.jpg",
+    "title" : "Panda face",
+"path":"images/animals/panda/content.txt"
+
+  },
+
+  { 
+   "backgroundImage" : "images/animals/origami-rabbit-27.jpg",
+    "content" : "<h3> You may use any kind of paper to fold the origami rabbit. It is a little easier if the front and the back side of the paper are slightly different whether it be in texture or color.Make sure the paper that you use is a square (all sides are equal and all the angles equal 90 degrees). The paper I am using here is 15cm x 15cm square origami paper with different color. I selected red color on the back side to simulate bunny rabbit's ears.</h3> ",
+   
+    
+    "group" : { "backgroundImage1" : "images/animals/animals.jpg",
+	    "backgroundImage" : "images/animals/origami-rabbit-27.jpg",
+        "groupImage" : "images/animals/cat/easy-origami-cat-01.jpg",
+        "key" : "2",
+        "rank" : "",
+       
+        "shortTitle" : "Animals",
+        "title" : "Animals",
+		"description" : "Various kinds of origami animals are presented here. If you are novice in origami, try folding techniques first and if you become comfortable with them, you can work on more advanced models."
+      },
+    
+    
+    
+    "description" : "This bunny rabbit starts from balloon base and follow the sequence of making a traditional balloon on one side.",
+    "shortTitle" : "rabbit",
+    "tileImage" : "images/animals/origami-rabbit-27.jpg",
+    "title" : "Rabbit",
+  "path":"images/animals/rabit(page 13 incomplete)/content.txt"
+
+  },
+
+
+
+
+
+  
+  { "backgroundImage" : "images/birds/origami-bird.jpg",
+    "content" : "<h3> You may use any kind of paper to fold the origami bird. It is a little easier if the front and the back side of the paper are slightly different whether it be in texture or color.Make sure the paper that you use is a square (all sides are equal and all the angles equal 90 degrees). The paper I am using here is 20cm x 20cm square one. If you are become familiar with this model. Then you can try smaller size paper.</h3> ",
+   
+    
+    "group" : { 
+	"backgroundImage1" : "images/birds/bird2.jpg",
+	"backgroundImage" : "images/birds/origami-bird.jpg",
+        "groupImage" :"images/animals/cat/easy-origami-cat-01.jpg",
+        "key" : "3",
+        "rank" : "",
+       
+        "shortTitle" : "Birds",
+        "title" : "Birds",
+		"description" : "Various kinds of origami birds are presented here. If you are novice in origami, try folding techniques first and if you become comfortable with them, you can work on more advanced models."
+        },
+    
+    
+    
+    "description" : " The base of origami bird is kite base which is used for making an origami swan. ",
+    "shortTitle" : "bird",
+    "tileImage" : "images/birds/origami-bird.jpg",
+    "title" : "Oragami bird",
+  "path":"images/birds/simple bird/content.txt"
+},
+  
+  
+  
+  { "backgroundImage" : "images/birds/origami-duck-traditional.jpg",
+    "content" : "<h3> You may use any kind of paper to fold the origami duck. It is a little easier if the front and the back side of the paper are slightly different whether it be in texture or color.Make sure the paper that you use is a square (all sides are equal and all the angles equal 90 degrees). The paper I am using here is 15cm x 15cm square one. It is the same size of a typical origami paper.</h3> ",
+   
+    
+    "group" : {
+	"backgroundImage1" : "images/birds/bird2.jpg",
+	 "backgroundImage" : "images/birds/origami-duck-traditional.jpg",
+        "groupImage" :"images/animals/cat/easy-origami-cat-01.jpg",
+        "key" : "3",
+        "rank" : "",
+       
+        "shortTitle" : "Birds",
+        "title" : "Birds",
+		"description" : "Various kinds of origami birds are presented here. If you are novice in origami, try folding techniques first and if you become comfortable with them, you can work on more advanced models."
+      },
+    
+    
+    
+    "description" : " This origami duck is a traditional model which makes use of both inside reverse-fold and outside reverse-fold.",
+    "shortTitle" : "duck",
+    "tileImage" : "images/birds/origami-duck-traditional.jpg",
+    "title" : "Traditional Duck",
+ "path":"images/birds/duck/content.txt"
+
+  },
+
+    
+  { "backgroundImage" : "images/birds/origami-hen-traditional.jpg",
+    "content" : "<h3>You may use any kind of paper to fold the origami hen. It is a little easier if the front and the back side of the paper are slightly different whether it be in texture or color.Make sure the paper that you use is a square (all sides are equal and all the angles equal 90 degrees). The paper I am using here is an origami paper with a dimension of 15cm x 15cm.</h3> ",
+   
+    
+    "group" : {
+	"backgroundImage1" : "images/birds/bird2.jpg",
+	 "backgroundImage" : "images/birds/origami-hen-traditional.jpg",
+        "groupImage" :"images/animals/cat/easy-origami-cat-01.jpg",
+        "key" : "3",
+        "rank" : "",
+       
+        "shortTitle" : "Birds",
+        "title" : "Birds",
+			"description" : "Various kinds of origami birds are presented here. If you are novice in origami, try folding techniques first and if you become comfortable with them, you can work on more advanced models."
+  
+      },
+    
+    
+    
+    "description" : " This traditional origami hen is an easy model. The special folding techniques involved with this model are squash-fold and inside reverse-fold.",
+    "shortTitle" : "hen",
+    "tileImage" : "images/birds/origami-hen-traditional.jpg",
+    "title" : "Traditional Hen",
+"path":"images/birds/hen/content.txt"
+
+  },
+
+    
+  { "backgroundImage" : "images/birds/origami-parrot-traditional.jpg",
+    
+	"content" : "<h3>You may use any kind of paper to fold the origami parrot. It is a little easier if the front and the back side of the paper are slightly different whether it be in texture or color.Make sure the paper that you use is a square (all sides are equal and all the angles equal 90 degrees). The paper I am using here is 15cm x 15cm square one.</h3> ",
+   
+    
+    "group" : { 
+	"backgroundImage1" : "images/birds/bird2.jpg",
+	"backgroundImage" : "images/birds/origami-parrot-traditional.jpg",
+        "groupImage" :"images/animals/cat/easy-origami-cat-01.jpg",
+        "key" : "3",
+        "rank" : "",
+       
+        "shortTitle" : "Birds",
+        "title" : "Birds",
+			"description" : "Various kinds of origami birds are presented here. If you are novice in origami, try folding techniques first and if you become comfortable with them, you can work on more advanced models."
+  
+
+      },
+    
+    
+    
+    "description" : " This origami parrot is an easy model to fold. You will able to learn both inside reverse-fold and outside reverse-fold from this model.",
+    "shortTitle" : "Traditional parrot",
+    "tileImage" : "images/birds/origami-parrot-traditional.jpg",
+    "title" : "Traditional parrot",
+"path":"images/birds/parrot/content.txt"
+
+  },
+  
+    
+  { "backgroundImage" : "images/birds/traditional-origami-crane.jpg",
+    "content" : "<h3>You may use any kind of paper to fold the origami crane. It is a little easier if the front and the back side of the paper are slightly different whether it be in texture or color.Make sure the paper that you use is a square (all sides are equal and all the angles equal 90 degrees). The paper I am using here is 10cm x 10cm square one. It is actually too small for a novice. If you are a beginner in origami, try it with a large size paper of 20cm x 20cm. </h3> ",
+   
+    
+    "group" : {
+	 "backgroundImage1" : "images/birds/bird2.jpg",
+	"backgroundImage" : "images/birds/traditional-origami-crane.jpg",
+        "groupImage" :"images/animals/cat/easy-origami-cat-01.jpg",
+        "key" : "3",
+        "rank" : "",
+       
+        "shortTitle" : "Birds",
+        "title" : "Birds",
+			"description" : "Various kinds of origami birds are presented here. If you are novice in origami, try folding techniques first and if you become comfortable with them, you can work on more advanced models."
+  
+      },
+    
+    
+    
+    "description" : " While you are making an origami crane, you will learn two bases: (1) square base and (2) bird base.",
+    "shortTitle" : "crane",
+    "tileImage" : "images/birds/traditional-origami-crane.jpg",
+    "title" : "Traditionla Crane",
+"path":"images/birds/crane/content.txt"
+
+  },
+
+    
+  { "backgroundImage" : "images/birds/traditional-origami-crow.jpg",
+    "content" : "<h3>You may use any kind of paper to fold the origami crow. It is a little easier if the front and the back side of the paper are slightly different whether it be in texture or color.Make sure the paper that you use is a square (all sides are equal and all the angles equal 90 degrees). The paper I am using here is 15cm x 15cm square one. It is a good size for those who are not experienced in paper folding.</h3> ",
+   
+    
+    "group" : { "backgroundImage1" : "images/birds/bird2.jpg",
+	"backgroundImage" : "images/birds/traditional-origami-crow.jpg",
+        "groupImage" :"images/animals/cat/easy-origami-cat-01.jpg",
+        "key" : "3",
+        "rank" : "",
+       
+        "shortTitle" : "Birds",
+        "title" : "Birds",
+			"description" : "Various kinds of origami birds are presented here. If you are novice in origami, try folding techniques first and if you become comfortable with them, you can work on more advanced models."
+  
+      },
+    
+    
+    
+    "description" : " The origami crow starts from bird base. One special folding technique you need to know for this model is inside reverse-fold.",
+    "shortTitle" : "crow",
+    "tileImage" : "images/birds/traditional-origami-crow.jpg",
+    "title" : "Traditional Crow",
+	"path":"images/birds/crow/content.txt"
+
+  },
+
+
+  
+  { "backgroundImage" : "images/boat/paper-boat-traditional.jpg",
+    "content" : "<h3>You may use any kind of paper to fold the paper boat. It is recommended to use a non-square paper. In this example, I am using the same color and texture for both front and back sides. But it is also okay if you use different color and texture.</h3> ",
+   
+    
+    "group" : { 
+	"backgroundImage1" : "images/boat/boat2.jpg",
+	"backgroundImage" : "images/boat/paper-boat-traditional.jpg",
+        "groupImage" :"images/animals/cat/easy-origami-cat-01.jpg",
+        "key" : "4",
+        "rank" : "",
+       
+        "shortTitle" : "Boats",
+        "title" : "Boats",
+			"description" : " Origami boat is one of the most important category in origami.Traditionally there are many kinds of origami boats and it is good to learn all of them since they contain very interesting folding techniques."
+   
+      },
+    
+    
+    
+    "description" : "The most important technique that you should remember is the pocket fold which will be applied twice to make this boat. ",
+    "shortTitle" : "Simple boat",
+    "tileImage" : "images/boat/paper-boat-traditional.jpg",
+    "title" : "Simple Boat",
+"path":"images/boat/paper boat/content.txt"
+
+  },
+
+    
+  { "backgroundImage" : "images/boat/origami-boat-catamaran-simple.jpg",
+    "content" : "<h3> You may use any kind of paper to fold the origami boat, catamaran. It is a little easier if the front and the back side of the paper are slightly different whether it be in texture or color.Make sure the paper that you use is a square (all sides are equal and all the angles equal 90 degrees). The paper I am using here is 15cm x 15cm square one.</h3> ",
+   
+    
+    "group" : {"backgroundImage1" : "images/boat/boat2.jpg",
+	 "backgroundImage" : "images/boat/origami-boat-catamaran-simple.jpg",
+        "groupImage" :"images/animals/cat/easy-origami-cat-01.jpg",
+        "key" : "4",
+        "rank" : "",
+       
+        "shortTitle" : "Boats",
+        "title" : "Boats",
+			"description" : " Origami boat is one of the most important category in origami.Traditionally there are many kinds of origami boats and it is good to learn all of them since they contain very interesting folding techniques."
+   
+      },
+    
+    
+    
+    "description" : " This simple origami catamaran origami boat is different from the traditional one in folding sequence although the shape is very similar. ",
+    "shortTitle" : "Catamaran Simple",
+    "tileImage" : "images/boat/origami-boat-catamaran-simple.jpg",
+    "title" : "Catamaran simple",
+"path":"images/boat/catamaran2/content.txt"
+
+  },
+
+  
+    
+  { "backgroundImage" : "images/boat/origami-boat-traditional-catamaran.jpg",
+    "content" : "<h3> You may use any kind of paper to fold the origami boat, catamaran. It is a little easier if the front and the back side of the paper are slightly different whether it be in texture or color.Make sure the paper that you use is a square (all sides are equal and all the angles equal 90 degrees). The paper I am using here is 15cm x 15cm square one. It is a good size for those who are not experienced in paper folding.</h3> ",
+   
+    
+    "group" : {"backgroundImage1" : "images/boat/boat2.jpg",
+	 "backgroundImage" : "images/boat/origami-boat-traditional-catamaran.jpg",
+        "groupImage" :"images/animals/cat/easy-origami-cat-01.jpg",
+        "key" : "4",
+        "rank" : "",
+       
+        "shortTitle" : "Boats",
+        "title" : "Boats",
+			"description" : " Origami boat is one of the most important category in origami.Traditionally there are many kinds of origami boats and it is good to learn all of them since they contain very interesting folding techniques."
+   
+      },
+    
+    
+    
+    "description" : "The folding technique that you will learn from this origami catamaran is inside reverse fold. You will apply two inside reverse folds to this model.",
+    "shortTitle" : "Traditional Catamaran",
+    "tileImage" : "images/boat/origami-boat-traditional-catamaran.jpg",
+    "title" : "Traditional Caramaran",
+    "path":"images/boat/catamaran/content.txt"
+
+  },
+
+  
+    
+  
+  { "backgroundImage" : "images/boat/origami-boat-traditional-magic.jpg",
+    "content" : "<h3>You may use any kind of paper to fold the origami magic boat. It is a little easier if the front and the back side of the paper are slightly different whether it be in texture or color.Make sure the paper that you use is a square (all sides are equal and all the angles equal 90 degrees). The paper I am using here is 15cm x 15cm square one. It is a good size for those who are not experienced in paper folding.</h3> ",
+   
+    
+    "group" : {"backgroundImage1" : "images/boat/boat2.jpg",
+	 "backgroundImage" : "images/boat/origami-boat-tradiotional-magic.jpg",
+        "groupImage" :"images/animals/cat/easy-origami-cat-01.jpg",
+        "key" : "4",
+        "rank" : "",
+       
+        "shortTitle" : "Boats",
+        "title" : "Boats",
+			"description" : " Origami boat is one of the most important category in origami.Traditionally there are many kinds of origami boats and it is good to learn all of them since they contain very interesting folding techniques."
+   
+      },
+    
+    
+    
+    "description" : " What you will learn from this magic boat is gate-fold and it is very similar to the traditional origami catamaran.",
+    "shortTitle" : "Magic boat",
+    "tileImage" : "images/boat/origami-boat-traditional-magic.jpg",
+    "title" : "Magic boat",
+	"path":"images/boat/magic boat/content.txt"
+
+	  },
+
+
+  { "backgroundImage" : "images/boat/traditional-origami-motorboat.jpg",
+    "content" : "<h3> You may use any kind of paper to fold the origami motorboat. It is a little easier if the front and the back side of the paper are slightly different whether it be in texture or color.Make sure the paper that you use is a square (all sides are equal and all the angles equal 90 degrees). The paper I am using here is a typical 15cm x 15cm origami paper. It </h3> ",
+   
+    
+    "group" : { "backgroundImage1" : "images/boat/boat2.jpg",
+	"backgroundImage" : "images/boat/traditional-origami-motorboat.jpg",
+        "groupImage" :"images/animals/cat/easy-origami-cat-01.jpg",
+        "key" : "4",
+        "rank" : "",
+       
+        "shortTitle" : "Boats",
+        "title" : "Boats",
+			"description" : " Origami boat is one of the most important category in origami.Traditionally there are many kinds of origami boats and it is good to learn all of them since they contain very interesting folding techniques."
+   
+      },
+    
+    
+    
+    "description" : "Two model share the same folding technique of opening a pocket. However, there is a difference. This origami motorboat has two nice decks.",
+    "shortTitle" : "Motorboat",
+    "tileImage" : "images/boat/traditional-origami-motorboat.jpg",
+    "title" : "Motorboat",
+	"path":"images/boat/motor boat/content.txt"
+
+  },
+
+  
+  
+  { "backgroundImage" : "images/boat/traditional-origami-steamboat2.jpg",
+    "content" : "<h3> You may use any kind of paper to fold the origami steamboat. It is a little easier if the front and the back side of the paper are slightly different whether it be in texture or color.Make sure the paper that you use is a square (all sides are equal and all the angles equal 90 degrees). The paper I am using here is a typical 15cm x 15cm origami paper. </h3> ",
+   
+    
+    "group" : { "backgroundImage1" : "images/boat/boat2.jpg",
+	"backgroundImage" : "images/boat/traditional-origami-steamboat2.jpg",
+        "groupImage" :"images/animals/cat/easy-origami-cat-01.jpg",
+        "key" : "4",
+        "rank" : "",
+       
+        "shortTitle" : "Boats",
+        "title" : "Boats",
+	"description" : " Origami boat is one of the most important category in origami.Traditionally there are many kinds of origami boats and it is good to learn all of them since they contain very interesting folding techniques."
+   
+      },
+    
+    
+    
+    "description" : "This traditional origami steamboat with double smokestacks is very close to the traditional origami chair.",
+    "shortTitle" : "Steamboat",
+    "tileImage" : "images/boat/traditional-origami-steamboat2.jpg",
+    "title" : "Steamboat",
+	"path":"images/boat/steam boat/content.txt"
+  },
+
+  
+  { "backgroundImage" : "images/boat/origami-boat-traditional-easy.jpg",
+    "content" : "<h3> You may use any kind of paper to fold the origami boat. It is a little easier if the front and the back side of the paper are slightly different whether it be in texture or color.Make sure the paper that you use is a square (all sides are equal and all the angles equal 90 degrees). The paper I am using here is a typical one-side color origami paper with a dimension of 15cm x 15cm square.</h3> ",
+   
+    
+    "group" : {"backgroundImage1" : "images/boat/boat2.jpg",
+	 "backgroundImage" : "images/boat/origami-boat-tradiotional-easy.jpg",
+        "groupImage" :"images/animals/cat/easy-origami-cat-01.jpg",
+        "key" : "4",
+        "rank" : "",
+       
+        "shortTitle" : "Boats",
+        "title" : "Boats",
+		"description" : " Origami boat is one of the most important category in origami.Traditionally there are many kinds of origami boats and it is good to learn all of them since they contain very interesting folding techniques."
+      },
+    
+    
+    
+    "description" : "This is a good example to learn the folding technique of outside reverse-fold. If you want, you can try this boat on the water. It actually floats.",
+    "shortTitle" : "Traditional Boat",
+    "tileImage" : "images/boat/origami-boat-traditional-easy.jpg",
+    "title" : "Traditional Boat",
+	"path":"images/boat/simple boat/content.txt"
+  },
+
+
+
+  { "backgroundImage" : "images/fish/easy-origami-fish.jpg",
+    "content" : "<h3>You may use any kind of paper to fold this origami fish. It is a little easier if the front and the back side of the paper are slightly different whether it be in texture or color.Make sure the paper that you use is a square (all sides are equal and all the angles equal 90 degrees). The paper I am using here is 20cm x 20cm square one. It is a good size for those who are not experienced in paper folding. </h3> ",
+   
+    
+    "group" : {
+	"backgroundImage1" : "images/fish/fish2.jpg", 
+	"backgroundImage" : "images/fish/easy-origami-fish.jpg",
+        "groupImage" :"images/animals/cat/easy-origami-cat-01.jpg",
+        "key" : "5",
+        "rank" : "",
+       
+        "shortTitle" : "Fishes",
+        "title" : "Fishes",
+		"description" : "Origami fishes are one of the most important category in origami.Traditionally there are many kinds of origami fishes and it is good to learn all of them since they contain very interesting folding techniques."
+		     },
+    
+    
+    
+    "description" : " This easy origami fish is not that easy after all since it takes 26 steps to complete. ",
+    "shortTitle" : "fin",
+    "tileImage" : "images/fish/easy-origami-fish.jpg",
+    "title" : "Fin Fish",
+	"path":"images/fish/fin fish/content.txt"
+  },
+
+  
+  
+  { "backgroundImage" : "images/fish/origami-dolphin-traditional.jpg",
+    "content" : "<h3> You may use any kind of paper to fold the origami dolphin. It is a little easier if the front and the back side of the paper are slightly different whether it be in texture or color.This paper I am using here is a typical origami paper with a dimension of 15cm x 15cm.</h3> ",
+   
+    
+    "group" : {"backgroundImage1" : "images/fish/fish2.jpg", 
+	 "backgroundImage" : "images/fish/origami-dolphin-traditional.jpg",
+        "groupImage" :"images/animals/cat/easy-origami-cat-01.jpg",
+        "key" : "5",
+        "rank" : "",
+       
+        "shortTitle" : "Fishes",
+        "title" : "Fishes",
+		"description" : "Origami fishes are one of the most important category in origami.Traditionally there are many kinds of origami fishes and it is good to learn all of them since they contain very interesting folding techniques."
+		      },
+    
+    
+    
+    "description" : " This origami dolphin is a traditional model modified by Hyo Ahn. It starts from fish base. ",
+    "shortTitle" : "dolphin",
+    "tileImage" : "images/fish/origami-dolphin-traditional.jpg",
+    "title" : "Dolphin",
+	"path":"images/fish/dolphin/content.txt"
+  },
+
+  
+  
+  { "backgroundImage" : "images/fish/origami-angelfish.jpg",
+    "content" : "<h3> You may use any kind of paper to fold this origami angelfish. It is a little easier if the front and the back side of the paper are slightly different whether it be in texture or color.Make sure the paper that you use is a square (all sides are equal and all the angles equal 90 degrees). The paper I am using here is 20cm x 20cm square one. It is a good size for those who are not experienced in paper folding.</h3> ",
+   
+    
+    "group" : { "backgroundImage1" : "images/fish/fish2.jpg", 
+	"backgroundImage" : "images/fish/origami-angelfish.jpg",
+        "groupImage" :"images/animals/cat/easy-origami-cat-01.jpg",
+        "key" : "5",
+        "rank" : "",
+       
+        "shortTitle" : "Fishes",
+        "title" : "Fishes",
+		"description" : "Origami fishes are one of the most important category in origami.Traditionally there are many kinds of origami fishes and it is good to learn all of them since they contain very interesting folding techniques."
+		    },
+    
+    
+    
+    "description" : " This origami angelfish starts from a square base. The essential folding technique that you will learn from this model is locking folding. ",
+    "shortTitle" : "angelfish",
+    "tileImage" : "images/fish/origami-angelfish.jpg",
+    "title" : "Angel Fish",
+	"path":"images/fish/angel fish/content.txt"
+  },
+
+  
+  { "backgroundImage" : "images/fish/traditional-origami-angelfish.jpg",
+    "content" : "<h3> You may use any kind of paper to fold this origami angelfish. Here I am using a typical origami paper with a black color to fold a black angelfish. The size of paper is 15cm x 15cm.</h3> ",
+   
+    
+    "group" : {"backgroundImage1" : "images/fish/fish2.jpg", 
+	 "backgroundImage" : "images/fish/traditional-origami-angelfish.jpg",
+        "groupImage" :"images/animals/cat/easy-origami-cat-01.jpg",
+        "key" : "5",
+        "rank" : "",
+       
+        "shortTitle" : "Fishes",
+        "title" : "Fishes",
+		"description" : "Origami fishes are one of the most important category in origami.Traditionally there are many kinds of origami fishes and it is good to learn all of them since they contain very interesting folding techniques."
+		      },
+    
+    
+    
+    "description" : " This traditional origami angelfish starts from a balloon base. It takes seven steps to complete this model. ",
+    "shortTitle" : "angelfish2",
+    "tileImage" : "images/fish/traditional-origami-angelfish.jpg",
+    "title" : "Traditional Angel Fish ",
+	  "path":"images/fish/simple fish/content.txt"
+  
+	  },
+
+  
+  
+  { "backgroundImage" : "images/fish/origami-goldfish2.jpg",
+    "content" : "<h3>You may use any kind of paper to fold the origami goldfish. It is a little easier if the front and the back side of the paper are slightly different whether it be in texture or color.Make sure the paper that you use is a square (all sides are equal and all the angles equal 90 degrees). The paper I am using here is 15cm x 15cm square one. It is a good size for those who are not experienced in paper folding.</h3> ",
+   
+    
+    "group" : { "backgroundImage1" : "images/fish/fish2.jpg", 
+	"backgroundImage" : "images/fish/origami-goldfish2.jpg",
+        "groupImage" :"images/animals/cat/easy-origami-cat-01.jpg",
+        "key" : "5",
+        "rank" : "",
+       
+        "shortTitle" : "Fishes",
+        "title" : "Fishes",
+		"description" : "Origami fishes are one of the most important category in origami.Traditionally there are many kinds of origami fishes and it is good to learn all of them since they contain very interesting folding techniques."
+		
+      },
+    
+    
+    
+    "description" : " The origami goldfish II starts from a square base. Two special folding techniques that you will learn from this model are both inside reverse-fold.",
+    "shortTitle" : "goldfish2",
+    "tileImage" : "images/fish/origami-goldfish2.jpg",
+    "title" : "Gold Fish",
+	"path":"images/fish/gold fish/content.txt"
+  
+  },
+
+
+  
+  
+  
+  { "backgroundImage" : "images/fish/traditional-origami-goldfish.jpg",
+    "content" : "<h3>You may use any kind of paper to fold the origami goldfish. It is a little easier if the front and the back side of the paper are slightly different whether it be in texture or color.Make sure the paper that you use is a square (all sides are equal and all the angles equal 90 degrees). The paper I am using here is 20cm x 20cm square one. It is a good size for those who are not experienced in paper folding. </h3> ",
+   
+    
+    "group" : { "backgroundImage1" : "images/fish/fish2.jpg", 
+	"backgroundImage" : "images/fish/traditional-origami-goldfish.jpg",
+        "groupImage" :"images/animals/cat/easy-origami-cat-01.jpg",
+        "key" : "5",
+        "rank" : "",
+       
+        "shortTitle" : "Fishes",
+        "title" : "Fishes",
+		"description" : "Origami fishes are one of the most important category in origami.Traditionally there are many kinds of origami fishes and it is good to learn all of them since they contain very interesting folding techniques."
+		
+      },
+    
+  
+    
+   "description" : "This traditional origami goldfish is a good example to learn the distinction between inside reverse-fold and outside reverse-fold.",
+    "shortTitle" : "goldfish",
+    "tileImage" : "images/fish/traditional-origami-goldfish.jpg",
+    "title" : "Gold Fish 2",
+	"path":"images/fish/gold fish/content.txt"
+   },
+
+  
+  { "backgroundImage" : "images/stars/origami-ninja-star.jpg",
+    "content" : "<h3>You may use any kind of paper to fold the origami ninja star. It is a little easier if the front and the back side of the paper are slightly different whether it be in texture or color.Make sure the paper that you use is a square (all sides are equal and all the angles equal 90 degrees). The paper I am using here is typical two 15cm x 15cm origami paper with different color. </h3> ",
+   
+    
+    "group" : { 
+	"backgroundImage1" : "images/stars/star.jpg",
+	"backgroundImage" : "images/stars/origami-ninja-star.jpg",
+        "groupImage" :"images/animals/cat/easy-origami-cat-01.jpg",
+        "key" : "6",
+        "rank" : "",
+       
+        "shortTitle" : "Stars",
+        "title" : "Stars",
+		"description" : "You can try out many different kinds of origami star here. There are 2D and 3D origami stars as well as one Star box too."
+		},
+    
+    
+    
+    "description" : " This traditional origami ninja star requires two square papers. You need to make two modules which are mirror-image to each other. ",
+    "shortTitle" : "ninja star",
+    "tileImage" : "images/stars/origami-ninja-star.jpg",
+    "title" : "Ninja Star",
+	"path":"images/stars/new folder/content.txt"
+  },
+
+  
+  { "backgroundImage" : "images/stars/origami-star-traditional.jpg",
+    "content" : "<h3>You may use any kind of paper to fold the origami star (*it is easier if the front and the back side of the paper are slightly different whether it be in texture or color).Make sure the paper that you use is a square (all sides are equal and all the angles equal 90 degrees). Here I am using a typical origami paper with 15cm x 15cm dimension.</h3> ",
+   
+    
+    "group" : {
+	"backgroundImage1" : "images/stars/star.jpg",
+	 "backgroundImage" : "images/stars/origami-star-traditional.jpg",
+        "groupImage" :"images/animals/cat/easy-origami-cat-01.jpg",
+        "key" : "6",
+        "rank" : "",
+       
+        "shortTitle" : "Stars",
+        "title" : "Stars",
+		"description" : "You can try out many different kinds of origami star here. There are 2D and 3D origami stars as well as one Star box too."
+		
+      },
+    
+    
+    
+    "description" : " This traditional origami star allows you to make a five-pointed origami star from a square paper without converting it to a pentagon.",
+    "shortTitle" : "five point",
+    "tileImage" : "images/stars/origami-star-traditional.jpg",
+    "title" : "Five Point Star",
+	"path":"images/stars/five point/content.txt"
+  
+  },
+
+  
+  { "backgroundImage" : "images/stars/origami-star-traditional2.jpg",
+    "content" : "<h3>You may use any kind of paper to fold the origami star (*it is easier if the front and the back side of the paper are slightly different whether it be in texture or color).Make sure the paper that you use is a square (all sides are equal and all the angles equal 90 degrees). Here I am using a typical origami paper with 15cm x 15cm dimension.traditional six-pointed origami paper star: front side of paper</h3> ",
+   
+    
+    "group" : {"backgroundImage1" : "images/stars/star.jpg",
+	 "backgroundImage" : "images/stars/origami-star-traditional2.jpg",
+        "groupImage" :"images/animals/cat/easy-origami-cat-01.jpg",
+        "key" : "6",
+        "rank" : "",
+       
+        "shortTitle" : "Stars",
+        "title" : "Stars",
+		"description" : "You can try out many different kinds of origami star here. There are 2D and 3D origami stars as well as one Star box too."
+		
+      },
+    
+    
+    
+    "description" : " This traditional six-pointed origami star allows you to make a six-pointed origami star from a square paper.",
+    "shortTitle" : "Six point star",
+    "tileImage" : "images/stars/origami-star-traditional2.jpg",
+    "title" : "Six Point Star",
+	"path":"images/stars/six point/content.txt"
+  },
+
+ 
+  { "backgroundImage" : "images/stars/origami-star-box-30.jpg",
+    "content" : "<h3>You may use any kind of paper to fold the origami star box. It is a little easier if the front and the back side of the paper are slightly different whether it be in texture or color.Make sure the paper that you use is a square (all sides are equal and all the angles equal 90 degrees). The paper I am using here is 20cm x 20cm square one. It is somewhat larger than a regular origami paper.",
+   
+    
+    "group" : {"backgroundImage1" : "images/stars/star.jpg",
+	 "backgroundImage" : "images/stars/origami-star-box-30.jpg",
+        "groupImage" :"images/animals/cat/easy-origami-cat-01.jpg",
+        "key" : "6",
+        "rank" : "",
+       
+        "shortTitle" : "Stars",
+        "title" : "Stars",
+		"description" : "You can try out many different kinds of origami star here. There are 2D and 3D origami stars as well as one Star box too."
+		
+      },
+    
+    
+    
+    "description" : " This is the classical four-pointed star box. ",
+    "shortTitle" : "Star box",
+    "tileImage" : "images/stars/origami-star-box-30.jpg",
+    "title" : "Star Box",
+	"path":"images/stars/star box/content.txt"
+  }
+
+
+
+  
+  ]

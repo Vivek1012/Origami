@@ -1,0 +1,59 @@
+﻿["images/stars/New folder/origami-ninja-star-00A.jpg",
+"<h2>00A.This is the front side of paper.</h2>",
+
+"images/stars/New folder/origami-ninja-star-00B.jpg",
+"<h2>00B.This is the back side of paper.</h2>",
+
+
+"images/stars/New folder/origami-ninja-star-01.jpg",
+"<h2>01.Let us start with the back side of the square paper facing up. </h2>",
+
+"images/stars/New folder/origami-ninja-star-02.jpg",
+"<h2>02.Valley-fold in half horizontally and then unfold. </h2>",
+
+"images/stars/New folder/origami-ninja-star-03.jpg",
+"<h2>03.Valley-fold in half vertically and then unfold. Prepare to apply a horizontal gate-fold</h2>",
+
+"images/stars/New folder/origami-ninja-star-04.jpg",
+"<h2>04.Apply the horizontal gate-fold of the step #3. Prepare to apply a horizontal valley-fold.</h2>",
+
+"images/stars/New folder/origami-ninja-star-05.jpg",
+"<h2>05.Apply the horizontal valley-fold of the step #4. Prepare to apply two valley-folds.</h2>",
+
+"images/stars/New folder/origami-ninja-star-06.jpg",
+"<h2>06.Apply two valley-folds of the step #5. Prepare to apply two valley-folds.</h2>",
+
+"images/stars/New folder/origami-ninja-star-07.jpg",
+"<h2>07.Apply two valley-folds of the step #6. Prepare to rotate the origami ninja star module by 45 degrees </h2>",
+
+"images/stars/New folder/origami-ninja-star-08.jpg",
+"<h2>08.Rotate the origami ninja star module by 45 degrees in the counter-clockwise direction.</h2>",
+
+"images/stars/New folder/origami-ninja-star-09.jpg",
+"<h2>09.Turn the lower origami ninja star module over.</h2>",
+
+"images/stars/New folder/origami-ninja-star-10.jpg",
+"<h2>10.Move the upper origami ninja star module over the lower origami ninja star module. Prepare to apply a valley-fold.</h2>",
+
+"images/stars/New folder/origami-ninja-star-11.jpg",
+"<h2>11.Apply the valley-fold of the step #10. Prepare to insert the triangle flap into a pocket.</h2>",
+
+"images/stars/New folder/origami-ninja-star-12.jpg",
+"<h2>12.Insert the triangle flap into the pocket. Prepare to apply a valley-fold.</h2>",
+
+"images/stars/New folder/origami-ninja-star-13.jpg",
+"<h2>13.Apply the valley-fold of the step #12. Prepare to insert the triangle flap into a pocket.</h2>",
+
+"images/stars/New folder/origami-ninja-star-14.jpg",
+"<h2>14.Insert the triangle flap into the pocket. Prepare to turn the origami ninja star model over.</h2>",
+
+"images/stars/New folder/origami-ninja-star-15.jpg",
+"<h2>15.Turn the origami steamboat model over. Prepare to apply two valley-folds and then insert two triangle into pockets.</h2>",
+
+"images/stars/New folder/origami-ninja-star-16.jpg",
+"<h2>16.Apply two valley-folds of the step #15 and then insert two triangle flaps into pockets.</h2>",
+
+"images/stars/New folder/origami-ninja-star-17.jpg",
+"<h2>17.Congratulation! You have just completed making a traditional origami ninja star.</h2>"
+
+]

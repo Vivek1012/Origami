@@ -1,0 +1,63 @@
+﻿[
+"images/stars/five point/origami-star-00A.jpg",
+"<h2>00A.This is the front side of the paper that I am using for this instruction. </h2>",
+
+"images/stars/five point/origami-star-00B.jpg",
+"<h2>00B.This is the back side of the paper.</h2>",
+
+"images/stars/five point/origami-star-01.jpg",
+"<h2>01.Let us start with the back side of the paper facing up. Prepare to rotate the paper by 45 degrees.</h2>",
+
+"images/stars/five point/origami-star-02.jpg",
+"<h2>02.Rotate the paper by 45 degrees. Prepare to valley-fold in half horizontally.</h2>",
+
+"images/stars/five point/origami-star-03.jpg",
+"<h2>03.Valley-fold in half horizontally. The open-side is at the bottom. </h2>",
+
+"images/stars/five point/origami-star-04.jpg",
+"<h2>04.Apply two valley-folds of the step #4. Prepare to unfold two previous valley-folds.</h2>",
+
+"images/stars/five point/origami-star-05.jpg",
+"<h2>05.Unfold the previous two valley-folds. Prepare to apply a vertical valley-fold</h2>",
+
+"images/stars/five point/origami-star-06.jpg",
+"<h2>06.Apply the vertical valley-fold of the step #5. Prepare to apply another valley-fold.</h2>",
+
+"images/stars/five point/origami-star-07.jpg",
+"<h2>07.Apply the valley-fold. Prepare to turn the origami star model over.</h2>",
+
+"images/stars/five point/origami-star-08.jpg",
+"<h2>08.Turn the origami star model over. Prepare to apply a valley-fold.</h2>",
+
+"images/stars/five point/origami-star-09.jpg",
+"<h2>09.Apply the valley-fold of the step #8. Prepare to pull inner layer out.</h2>",
+
+"images/stars/five point/origami-star-10.jpg",
+"<h2>10.Start pulling out the inner layer.</h2>",
+
+"images/stars/five point/origami-star-11.jpg",
+"<h2>11.Complete pulling the inner layer out. Prepare to apply a valley-fold.</h2>",
+
+"images/stars/five point/origami-star-12.jpg",
+"<h2>12.Apply the valley-fold of the step #11. Prepare to apply a valley-fold.</h2>",
+
+"images/stars/five point/origami-star-13.jpg",
+"<h2>13.Apply the valley-fold of the step #12. Prepare to apply another valley-fold.</h2>",
+
+"images/stars/five point/origami-star-14.jpg",
+"<h2>14.Apply the valley-fold of the step #13. Prepare to turn the origami star model over.</h2>",
+
+"images/stars/five point/origami-star-15.jpg",
+"<h2>15.Turn the origami star model over. Prepare to apply a vertical valley-fold.</h2>",
+
+"images/stars/five point/origami-star-16.jpg",
+"<h2>16.Apply the vertical valley-fold of the step #15. Prepare to apply a valley-fold.</h2>",
+
+"images/stars/five point/origami-star-17.jpg",
+"<h2>17.Apply the valley-fold of the step #16. Prepare to rotate the origami star model a little so that it is upright.</h2>",
+
+"images/stars/five point/origami-star-18.jpg",
+"<h2>18.Rotate the origami star model so that it is upright. Congratulation!</h2>"
+
+
+]

@@ -1,0 +1,39 @@
+﻿[
+"images/folds/stair fold/origami-fold-stair-00A.jpg",
+"<h2>00A.This is the front side of the paper.</h2>",
+
+"images/folds/stair fold/origami-fold-stair-00B.jpg",
+"<h2>00B.This is the back side of the paper.</h2>",
+
+"images/folds/stair fold/origami-fold-stair-00C.jpg",
+"<h2>01.Let us start with a square paper.</h2>",
+
+"images/folds/stair fold/origami-fold-stair-02.jpg",
+"<h2>02.Bend the paper vertically so that the bended left-edge should be 1/3 from the unbended left-edge.</h2>",
+
+"images/folds/stair fold/origami-fold-stair-03.jpg",
+"<h2>03.Measure the distance between two left edges, L1.</h2>",
+
+"images/folds/stair fold/origami-fold-stair-04.jpg",
+"<h2>04.Measure the length of the bended paper, L2. If L2 is not equal to the twice of L1, adjust L2 so that L2 = 2 * L1.</h2>",
+
+"images/folds/stair fold/origami-fold-stair-05.jpg",
+"<h2>05.Apply the mountain-fold on the right edge. Prepare to apply a vertical valley-fold.</h2>",
+
+"images/folds/stair fold/origami-fold-stair-06.jpg",
+"<h2>06.Apply the vertical valley-fold of the step #5. Prepare to turn the paper over.</h2>",
+
+"images/folds/stair fold/origami-fold-stair-07.jpg",
+"<h2>07.Turn the paper over. Prepare to apply a valley-fold.</h2>",
+
+"images/folds/stair fold/origami-fold-stair-08.jpg",
+"<h2>08.Apply the valley-fold of the step #7. Prepare to apply a vertical valley-fold.</h2>",
+
+"images/folds/stair fold/origami-fold-stair-09.jpg",
+"<h2>09.Apply the vertical valley-fold of the step #8. Prepare to open the paper.</h2>",
+
+"images/folds/stair fold/origami-fold-stair-10.jpg",
+"<h2>10.Open the paper. You have completed applying a stair-fold.</h2>"
+
+
+]

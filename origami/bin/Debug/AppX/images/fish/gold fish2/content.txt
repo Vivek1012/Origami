@@ -1,0 +1,73 @@
+﻿["images/fish/gold fish2/origami-goldfish-00A.jpg",
+"<h2>00A.This is the front side of paper.</h2>",
+
+"images/fish/gold fish2/origami-goldfish-00B.jpg",
+"<h2>00B.This is the back side of paper.</h2>",
+
+"images/fish/gold fish2/origami-goldfish-01.jpg",
+"<h2>01.Let us start with a square base . This square base has been used for many origami models</h2>",
+
+"images/fish/gold fish2/origami-goldfish-02.jpg",
+"<h2>02.Prepare to apply two vertical valley-folds .</h2>",
+
+"images/fish/gold fish2/origami-goldfish-03.jpg",
+"<h2>03.Apply two vertical valley-folds of the step #2. </h2>",
+
+"images/fish/gold fish2/origami-goldfish-04.jpg",
+"<h2>04.Unfold two valley-folds of the step #3. Prepare to apply two inside reverse-folds .</h2>",
+
+"images/fish/gold fish2/origami-goldfish-05.jpg",
+"<h2>05.Apply two inside reverse-folds of the step #4. </h2>",
+
+"images/fish/gold fish2/origami-goldfish-06.jpg",
+"<h2>06.Turn the origami goldfish model over. Prepare to repeat the steps #2-5.</h2>",
+
+"images/fish/gold fish2/origami-goldfish-07.jpg",
+"<h2>07.Repeat the steps #2-5. Prepare to apply a vertical valley-fold .</h2>",
+
+"images/fish/gold fish2/origami-goldfish-08.jpg",
+"<h2>08.Apply the vertical valley-fold of the step #7. Prepare to apply a (1) rabbit ear-fold and then a (2) mountain-fold .</h2>",
+
+"images/fish/gold fish2/origami-goldfish-09.jpg",
+"<h2>09.Apply the rabbit ear-fold of the step #8. Prepare to apply the mountain-fold of the step #8.</h2>",
+
+"images/fish/gold fish2/origami-goldfish-10.jpg",
+"<h2>10.Apply the mountain-fold of the step #8. Prepare to apply a vertical valley-fold .</h2>",
+
+"images/fish/gold fish2/origami-goldfish-11.jpg",
+"<h2>11.Apply the vertical valley-fold of the step #10. Prepare to apply a vertical valley-fold .</h2>",
+
+"images/fish/gold fish2/origami-goldfish-12.jpg",
+"<h2>12.Apply the vertical valley-fold of the step #11. Prepare to apply a (1) rabbit ear-fold and then a (2) mountain-fold .</h2>",
+
+"images/fish/gold fish2/origami-goldfish-13.jpg",
+"<h2>13.Apply the rabbit ear-fold of the step #12. Prepare for a mountain-fold.</h2>",
+
+"images/fish/gold fish2/origami-goldfish-14.jpg",
+"<h2>14.Apply a mountain-fold of the step #13. Prepare to apply a vertical valley-fold .</h2>",
+
+"images/fish/gold fish2/origami-goldfish-15.jpg",
+"<h2>15.Apply the vertical valley-fold of the step #14. Prepare to apply a (1) rabbit ear-fold and then a (2) valley-fold .</h2>",
+
+"images/fish/gold fish2/origami-goldfish-16.jpg",
+"<h2>16.Apply the rabbit ear-fold of the step #15. Prepare to apply the valley-fold of the step #15.</h2>",
+
+"images/fish/gold fish2/origami-goldfish-17.jpg",
+"<h2>17.Apply the valley-fold of the step #15. Prepare to turn the model over.</h2>",
+
+"images/fish/gold fish2/origami-goldfish-18.jpg",
+"<h2>18.Turn the model over. Prepare to apply a (1) "rabbit ear-fold" and then a (2) valley-fold .</h2>",
+
+"images/fish/gold fish2/origami-goldfish-19.jpg",
+"<h2>19.Apply the rabbit ear-fold of the step #18. Prepare to apply a valley-fold .</h2>",
+
+"images/fish/gold fish2/origami-goldfish-20.jpg",
+"<h2>20.Apply the valley-fold of the step #19. Prepare to rotate the origami goldfish model by 90 degrees.</h2>",
+
+"images/fish/gold fish2/origami-goldfish-21.jpg",
+"<h2>21.Rotate the origami goldfish model by 90 degrees. Prepare to put a googly eye or draw a eye.</h2>",
+
+"images/fish/gold fish2/origami-goldfish-22.jpg",
+"<h2>22.I put a googly eye. You need to put another googly eye to the other side. Congratulation!</h2>"
+
+]

@@ -1,0 +1,92 @@
+﻿[
+"images/fish/gold fish/origami-goldfish-00A.jpg",
+"<h2>00A.This is the front side of paper.</h2>",
+
+"images/fish/gold fish/origami-goldfish-00B.jpg",
+"<h2>00B.This is the back side of paper.</h2>",
+
+"images/fish/gold fish/origami-goldfish-01.jpg",
+"<h2>01.We will be starting with the back side of the paper facing up.</h2>",
+
+"images/fish/gold fish/origami-goldfish-02.jpg",
+"<h2>02.Apply the valley-fold of the step #1. Prepare to rotate the paper by 45 degrees in the clockwise direction.</h2>",
+
+"images/fish/gold fish/origami-goldfish-03.jpg",
+"<h2>03.Rotate the paper by 45 degrees in the clockwise direction.</h2>",
+
+"images/fish/gold fish/origami-goldfish-04.jpg",
+"<h2>04.Apply two valley-folds of the step #3.</h2>",
+
+"images/fish/gold fish/origami-goldfish-05.jpg",
+"<h2>05.Apply two horizontal valley-folds of the step #4. </h2>",
+
+"images/fish/gold fish/origami-goldfish-06.jpg",
+"<h2>06.Apply two slanted valley-folds of the step #5.</h2>",
+
+"images/fish/gold fish/origami-goldfish-07.jpg",
+"<h2>07.Valley-fold according to the step #6 and then unfold.</h2>",
+
+"images/fish/gold fish/origami-goldfish-08.jpg",
+"<h2>08.Apply the horizontal valley-fold of the step #7.</h2>",
+
+"images/fish/gold fish/origami-goldfish-09.jpg",
+"<h2>09.Apply the horizontal valley-fold of the step #8. </h2>",
+
+"images/fish/gold fish/origami-goldfish-10.jpg",
+"<h2>10.Apply a horizontal mountain-fold of the step #9.</h2>",
+
+"images/fish/gold fish/origami-goldfish-11.jpg",
+"<h2>11.Start to open the pocket by following the arrow directions. </h2>",
+
+"images/fish/gold fish/origami-goldfish-12.jpg",
+"<h2>12.Continue making a mountain-fold at the middle.</h2>",
+
+"images/fish/gold fish/origami-goldfish-13.jpg",
+"<h2>13.Complete making a mountain-fold at the middle. Prepare to rotate the model by 90 degrees.</h2>",
+
+"images/fish/gold fish/origami-goldfish-14.jpg",
+"<h2>14.Rotate the model by 90 degrees. Pinch the edge encircled with a dotted ellipse.</h2>",
+
+"images/fish/gold fish/origami-goldfish-15.jpg",
+"<h2>15.Prepare to apply a valley-fold and then unfold.</h2>",
+
+"images/fish/gold fish/origami-goldfish-16.jpg",
+"<h2>16.Apply the valley-fold of the step #15 and then unfold. Prepare to revert to the step #9.</h2>",
+
+"images/fish/gold fish/origami-goldfish-17.jpg",
+"<h2>17.Revert to the step #9 by undoing the subsequent steps. </h2>",
+
+"images/fish/gold fish/origami-goldfish-18.jpg",
+"<h2>18.Cut the paper according to the step #17. Prepare to repeat the steps #10-14.</h2>",
+
+"images/fish/gold fish/origami-goldfish-19.jpg",
+"<h2>19.Repeat the steps #10-14. Prepare to apply an inside reverse-fold .</h2>",
+
+"images/fish/gold fish/origami-goldfish-20.jpg",
+"<h2>20.Apply the inside reverse-fold of the step #19. Prepare to rotate a little to see the back of the model clearly.</h2>",
+
+"images/fish/gold fish/origami-goldfish-21.jpg",
+"<h2>21.Rotate the model a little. Prepare to apply an outside reverse-fold .</h2>",
+
+"images/fish/gold fish/origami-goldfish-22.jpg",
+"<h2>22.Start applying the outside reverse-fold of the step #21.</h2>",
+
+"images/fish/gold fish/origami-goldfish-23.jpg",
+"<h2>23.Continue applying the outside reverse-fold of the step #21.</h2>",
+
+"images/fish/gold fish/origami-goldfish-24.jpg",
+"<h2>24.Keep applying the outside reverse-fold of the step #21.</h2>",
+
+"images/fish/gold fish/origami-goldfish-25.jpg",
+"<h2>25.Finish applying the outside reverse-fold of the step #21. </h2>",
+
+"images/fish/gold fish/origami-goldfish-26.jpg",
+"<h2>26.Apply the curved mountain-fold of the step #25. </h2>",
+
+"images/fish/gold fish/origami-goldfish-27.jpg",
+"<h2>27.Apply the mountain-fold of the step #26.</h2>",
+
+"images/fish/gold fish/origami-goldfish-28.jpg",
+"<h2>28.I put two googly eyes. Congratulation! You have just completed making a traditional origami goldfish.</h2>"
+
+]

@@ -1,0 +1,73 @@
+﻿[
+"images/animals/panda/origami-panda-00A.jpg",
+"<h2>00A.This is the front side of paper. </h2>",
+
+"images/animals/panda/origami-panda-00B.jpg",
+"<h2>00B.This is the back side of paper.</h2>",
+
+"images/animals/panda/origami-panda-01.jpg",
+"<h2>01.Let us start with the front side of the paper facing up.Prepare to valley-fold in half horizontally</h2>",
+
+"images/animals/panda/origami-panda-02.jpg",
+"<h2>02.Valley-fold in half horizontally and then unfold.Prepare to valley-fold in half vertically</h2>",
+
+"images/animals/panda/origami-panda-03.jpg",
+"<h2>03.Valley-fold in half vertically and then unfold.Prepare to turn the paper over.</h2>",
+
+"images/animals/panda/origami-panda-04.jpg",
+"<h2>04.Turn the paper over.Prepare to apply two valley-folds.</h2>",
+
+"images/animals/panda/origami-panda-05.jpg",
+"<h2>05.Apply two valley-fold of the step #4.</h2>",
+
+"images/animals/panda/origami-panda-06.jpg",
+"<h2>06.Turn the origami panda model over.Prepare to apply two valley-folds.</h2>",
+
+"images/animals/panda/origami-panda-07.jpg",
+"<h2>07.Apply two valley-folds of the step #6.Prepare to apply a horizontal valley-fold.</h2>",
+
+"images/animals/panda/origami-panda-08.jpg",
+"<h2>08.Apply the horizontal valley-fold of the step #7. </h2>",
+
+"images/animals/panda/origami-panda-09.jpg",
+"<h2>09.Apply two valley-fold of the step #8 and then unfold.</h2>",
+
+"images/animals/panda/origami-panda-10.jpg",
+"<h2>10.Apply the asymmetric squash-fold of the step #9.</h2>",
+
+"images/animals/panda/origami-panda-11.jpg",
+"<h2>11.Apply the asymmetric squash-fold of the step #10.</h2>",
+
+"images/animals/panda/origami-panda-12.jpg",
+"<h2>12.Apply two valley-folds of the step #11.</h2>",
+
+"images/animals/panda/origami-panda-13.jpg",
+"<h2>13.Apply two valley-folds of the step #12 and then unfold.</h2>",
+
+"images/animals/panda/origami-panda-14.jpg",
+"<h2>14.Apply two squash-folds of the step #13.</h2>",
+
+"images/animals/panda/origami-panda-15.jpg",
+"<h2>15.Apply the horizontal mountain-fold of the step #14.</h2>",
+
+"images/animals/panda/origami-panda-16.jpg",
+"<h2>16.Apply the horizontal valley-fold of the step #15.</h2>",
+
+"images/animals/panda/origami-panda-17.jpg",
+"<h2>17.Apply the rabbit ear-fold the step #16.</h2>",
+
+"images/animals/panda/origami-panda-18.jpg",
+"<h2>18.Apply two mountain-folds of the step #17.</h2>",
+
+"images/animals/panda/origami-panda-19.jpg",
+"<h2>19.Apply the squash-fold of the step #18.</h2>",
+
+"images/animals/panda/origami-panda-20.jpg",
+"<h2>20.Prepare to open a pocket by applying two mountain-folds.</h2>",
+
+"images/animals/panda/origami-panda-21.jpg",
+"<h2>21.Open the pocket by applying two mountain-folds of the step #20.</h2>",
+
+"images/animals/panda/origami-panda-22.jpg",
+"<h2>22.Pull the bottom edge down a little.Congratulation!</h2>"
+]

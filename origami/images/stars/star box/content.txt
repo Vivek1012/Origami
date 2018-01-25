@@ -1,0 +1,99 @@
+﻿[
+"images/stars/star box/origami-star-box-00A.jpg",
+"<h2>00A.This is the front side of paper. </h2>",
+
+"images/stars/star box/origami-star-box-00B.jpg",
+"<h2>00B.This is the back side of paper.</h2>",
+
+"images/stars/star box/origami-star-box-01.jpg",
+"<h2>01.Let's start with a paper's front side facing up. Prepare for a valley-fold along a diagonal line.</h2>",
+
+"images/stars/star box/origami-star-box-02.jpg",
+"<h2>02.Apply the valley-fold of the step #1.</h2>",
+
+"images/stars/star box/origami-star-box-03.jpg",
+"<h2>03.Prepare for a valley-fold along another diagonal line</h2>",
+
+"images/stars/star box/origami-star-box-04.jpg",
+"<h2>04.Valley-fold according to the step #3.</h2>",
+
+"images/stars/star box/origami-star-box-05.jpg",
+"<h2>05.Prepare to mountain-fold along the middle horizontal line.</h2>",
+
+"images/stars/star box/origami-star-box-06.jpg",
+"<h2>06.Apply the mountain-fold of the step #5.</h2>",
+
+"images/stars/star box/origami-star-box-07.jpg",
+"<h2>07.Prepare to mountain-fold along the middle vertical line.</h2>",
+
+"images/stars/star box/origami-star-box-08.jpg",
+"<h2>08.Mountain-fold along the middle vertical line. </h2>",
+
+"images/stars/star box/origami-star-box-09.jpg",
+"<h2>09.Flatten the model according to the step #8.Prepare to rotate the model by 180 degrees.</h2>",
+
+"images/stars/star box/origami-star-box-10.jpg",
+"<h2>10.Rotate the model by 180 degrees. Now, the open end is at the top. Prepare for two valley-folds.</h2>",
+
+"images/stars/star box/origami-star-box-11.jpg",
+"<h2>11.Apply two valley-folds of the step #10. Prepare to turn the model over.</h2>",
+
+"images/stars/star box/origami-star-box-12.jpg",
+"<h2>12.Turn the model over. Prepare for another two valley-folds.</h2>",
+
+"images/stars/star box/origami-star-box-13.jpg",
+"<h2>13.Apply two valley-folds of the step #12. Prepare for another two valley-folds.</h2>",
+
+"images/stars/star box/origami-star-box-14.jpg",
+"<h2>14.Apply two valley-folds of the step #13. Prepare to unfold two valley-folds that you just made.</h2>",
+
+"images/stars/star box/origami-star-box-15.jpg",
+"<h2>15.Unfold two valley-folds of the step #14. Prepare to convert the front layer into a mountain-fold </h2>",
+
+"images/stars/star box/origami-star-box-16.jpg",
+"<h2>16.Apply the conversion of the step #15. Prepare to apply two mountain-folds.</h2>",
+
+"images/stars/star box/origami-star-box-17.jpg",
+"<h2>17.Apply a mountain-fold while lifting the edge. Here I apply a mountain-fold to the right edge </h2>",
+
+"images/stars/star box/origami-star-box-18.jpg",
+"<h2>18.Complete two mountain-fold of the step #16. Prepare to turn the model over.</h2>",
+
+"images/stars/star box/origami-star-box-19.jpg",
+"<h2>19.Turn the model over. Prepare to repeat the steps #13-18.</h2>",
+
+"images/stars/star box/origami-star-box-20.jpg",
+"<h2>20.Repeat the steps #13-18. Prepare for a valley-fold.</h2>",
+
+"images/stars/star box/origami-star-box-21.jpg",
+"<h2>21.Apply the valley-fold of the step #20.</h2>",
+
+"images/stars/star box/origami-star-box-22.jpg",
+"<h2>22.Unfold the previous valley-fold. Prepare to rotate the model by 180 degrees.</h2>",
+
+"images/stars/star box/origami-star-box-23.jpg",
+"<h2>23.Rotate the model by 180 degrees. Prepare to convert the exisiting creases into a mountain-folded one.</h2>",
+
+"images/stars/star box/origami-star-box-24.jpg",
+"<h2>24.Open the bottom by spreading all four legs. Prepare to push the top.</h2>",
+
+"images/stars/star box/origami-star-box-25.jpg",
+"<h2>25.Press the top with your thumb.</h2>",
+
+"images/stars/star box/origami-star-box-26.jpg",
+"<h2>26.Continue pushing until the top collapses completely.</h2>",
+
+"images/stars/star box/origami-star-box-27.jpg",
+"<h2>27.Make all four edges to be sharp. This is the answer to the step #23,</h2>",
+
+"images/stars/star box/origami-star-box-28.jpg",
+"<h2>28.Prepare for four valley-folds.</h2>",
+
+"images/stars/star box/origami-star-box-29.jpg",
+"<h2>29.Apply four valley-folds of the step #28. The traditional origami star box is now completed.</h2>",
+
+"images/stars/star box/origami-star-box-30.jpg",
+"<h2>30.The traditional origami star box is shown in a different camera angle.</h2>"
+
+
+]

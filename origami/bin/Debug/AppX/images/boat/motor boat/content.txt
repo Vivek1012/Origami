@@ -1,0 +1,97 @@
+﻿[
+"images/boat/motor boat/origami-motorboat-00A.jpg",
+"<h2>00A.This is the front side of paper.</h2>",
+
+"images/boat/motor boat/origami-motorboat-00B.jpg",
+"<h2>00B.This is the back side of paper.</h2>",
+
+"images/boat/motor boat/origami-motorboat-01.jpg",
+"<h2>01.Let us start with the back side of the square paper facing up.Prepare to apply a cushion-fold .</h2>",
+
+"images/boat/motor boat/origami-motorboat-02.jpg",
+"<h2>02.Apply the cushion-fold of the step #1. Prepare to rotate the origami motorboat model by 45 degrees.</h2>",
+
+"images/boat/motor boat/origami-motorboat-03.jpg",
+"<h2>03.Rotate the origami motorboat model by 45 degrees according to the step #2.Prepare to turn the model over.</h2>",
+
+"images/boat/motor boat/origami-motorboat-04.jpg",
+"<h2>04.Turn the model over. Prepare to apply a horizontal gate-fold and then unfold.</h2>",
+
+"images/boat/motor boat/origami-motorboat-05.jpg",
+"<h2>05.Apply the horizontal gate-fold of the step #4 and then unfold.</h2>",
+
+"images/boat/motor boat/origami-motorboat-06.jpg",
+"<h2>06.Apply the vertical gate-fold of the step #5 and then unfold.</h2>",
+
+"images/boat/motor boat/origami-motorboat-07.jpg",
+"<h2>07.Turn the origami motorboat model over.</h2>",
+
+"images/boat/motor boat/origami-motorboat-08.jpg",
+"<h2>08.Apply four mountain-folds of the step #7.</h2>",
+
+"images/boat/motor boat/origami-motorboat-09.jpg",
+"<h2>09.Turn the origami motorboat model over. Prepare to apply two vertical valley-folds.</h2>",
+
+"images/boat/motor boat/origami-motorboat-10.jpg",
+"<h2>10.Apply two vertical valley-folds of the step #9. Prepare to apply four valley-folds.</h2>",
+
+"images/boat/motor boat/origami-motorboat-11.jpg",
+"<h2>11.Apply four valley-folds of the step #10. Prepare to apply another four valley-folds.</h2>",
+
+"images/boat/motor boat/origami-motorboat-12.jpg",
+"<h2>12.Apply the four valley-folds of the step #11. Prepare to apply two vertical valley-folds.</h2>",
+
+"images/boat/motor boat/origami-motorboat-13.jpg",
+"<h2>13.Apply two vertical valley-folds of the step #13. Prepare to open the pocket.</h2>",
+
+"images/boat/motor boat/origami-motorboat-14.jpg",
+"<h2>14.Start to open the pocket in the lower region.</h2>",
+
+"images/boat/motor boat/origami-motorboat-15.jpg",
+"<h2>15.Fully open the pocket, holding the model by two hands.</h2>",
+
+"images/boat/motor boat/origami-motorboat-16.jpg",
+"<h2>16.Rotate the origami motorboat model by 180 degrees. </h2>",
+
+"images/boat/motor boat/origami-motorboat-17.jpg",
+"<h2>17.Start squashing the upper region.</h2>",
+
+"images/boat/motor boat/origami-motorboat-18.jpg",
+"<h2>18.Continue squashing the upper region.</h2>",
+
+"images/boat/motor boat/origami-motorboat-19.jpg",
+"<h2>19.Finish squashing the upper region Prepare to squash the lower region.</h2>",
+
+"images/boat/motor boat/origami-motorboat-20.jpg",
+"<h2>20.Start squashing the lower region.</h2>",
+
+"images/boat/motor boat/origami-motorboat-21.jpg",
+"<h2>21.Continue squashing the lower region.</h2>",
+
+"images/boat/motor boat/origami-motorboat-22.jpg",
+"<h2>22.Finish squashing the lower region. After squashing work is completed, iron the surface with your two thumbs</h2>",
+
+"images/boat/motor boat/origami-motorboat-23.jpg",
+"<h2>23.Prepare to collapse the pocket.</h2>",
+
+"images/boat/motor boat/origami-motorboat-24.jpg",
+"<h2>24.Collapse the pocket by folding along the existing crease lines. Prepare to re-open the pocket.</h2>",
+
+"images/boat/motor boat/origami-motorboat-25.jpg",
+"<h2>25.Re-open the pocket.</h2>",
+
+"images/boat/motor boat/origami-motorboat-26.jpg",
+"<h2>26.Prepare to pull the upper deck up.</h2>",
+
+"images/boat/motor boat/origami-motorboat-27.jpg",
+"<h2>27.Pull the upper deck up.</h2>",
+
+"images/boat/motor boat/origami-motorboat-28.jpg",
+"<h2>28.Prepare to pull the lower deck up.</h2>",
+
+"images/boat/motor boat/origami-motorboat-29.jpg",
+"<h2>29.Pull the lower deck up.</h2>",
+
+"images/boat/motor boat/origami-motorboat-30.jpg",
+"<h2>30.Congratulation! You have just completed making a traditional origami motorboat.</h2>"
+]

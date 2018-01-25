@@ -1,0 +1,29 @@
+﻿[
+"images/fish/simple fish/origami-angelfish-00A.jpg",
+"<h2>00A.This is the front side of paper.</h2>",
+
+"images/fish/simple fish/origami-angelfish-00B.jpg",
+"<h2>00B.This is the back side of paper.</h2>",
+
+"images/fish/simple fish/origami-angelfish-01.jpg",
+"<h2>01.Let's start with a balloon base . Prepare to apply a valley-fold.</h2>",
+
+"images/fish/simple fish/origami-angelfish-02.jpg",
+"<h2>02.Apply the valley-fold of the step #1. Make sure that this valley-fold trisect 90 degree angle at the top.</h2>",
+
+"images/fish/simple fish/origami-angelfish-03.jpg",
+"<h2>03.Prepare to apply another valley-fold.</h2>",
+
+"images/fish/simple fish/origami-angelfish-04.jpg",
+"<h2>04.Apply the valley-fold of the step #3. Prepare to turn the origami angelfish model over.</h2>",
+
+"images/fish/simple fish/origami-angelfish-05.jpg",
+"<h2>05.Turn the origami angelfish model over. Prepare to rotate the origami angelfish model by 90 degrees.</h2>",
+
+"images/fish/simple fish/origami-angelfish-06.jpg",
+"<h2>06.Rotate the origami angelfish model by 90 degrees. </h2>",
+
+"images/fish/simple fish/origami-angelfish-07.jpg",
+"<h2>07.Draw an eye or put a googly eye. Congratulation! </h2>"
+
+]

@@ -1,0 +1,368 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='C:\ProgramData\Windows App Certification Kit\results.xsl'?>
+<REPORT OVERALL_RESULT="PASS" VERSION="3.1" LATEST_VERSION="TRUE" UPDATE_DOWNLOAD_URL="" TOOLSET_ARCHITECTURE="X64" SecureBoot="FALSE" APP_TYPE="WindowsStore" PUBLISHER_DISPLAY_NAME="Vivek Talreja" OSVERSION="6.2.9200.0" OS="Microsoft Windows 8 Pro" PER_USER_APPLICATION="" PARTIAL_RUN="FALSE" LCID="1033" VALIDATION_TYPE="UI" ReportGenerationTime="1/5/2014 11:01:28 PM" ID="a12a09581af3b3c458de171ea9b79be1">
+  <REQUIREMENTS>
+    <REQUIREMENT NUMBER="1" TITLE="Clean reversible install test" RATIONALE="A clean, reversible, installation allows users to successfully manage (deploy, and remove) applications on their system." />
+    <REQUIREMENT NUMBER="2" TITLE="Install to the correct folders test" RATIONALE="Windows provides specific locations in the file system to store programs and software components, shared application data, and application data specific to a user." />
+    <REQUIREMENT NUMBER="3" TITLE="Digitally signed file test" RATIONALE="An Authenticode digital signature allows users to be sure that the software is genuine. It also allows detection if a file has been tampered with e.g. infected by a virus." />
+    <REQUIREMENT NUMBER="4" TITLE="Support x64 Windows test" RATIONALE="To maintain compatibility with 64-bit versions of Windows, it is necessary that applications should natively support 64-bit or at minimum 32-bit Windows based applications to run seamlessly on 64-bit." />
+    <REQUIREMENT NUMBER="5" TITLE="OS version checking test" RATIONALE="Applications must not perform version checks for equality (== 5.1). If you need a specific feature, check whether the feature is available. If you need Windows XP, check for Windows XP or later (&gt;= 5.1), This way, your detection code will continue to work on future versions of Windows. Driver installers and uninstall modules should never check the OS version." />
+    <REQUIREMENT NUMBER="6" TITLE="User account control (UAC) test" RATIONALE="Most applications do not require administrator privileges at run time, and should be just fine running as a standard-user. Windows applications must have a manifest (embedded or external) to define its execution level that tells OS the privileges needed to run the application." />
+    <REQUIREMENT NUMBER="7" TITLE="Adhere to system restart manager messages" RATIONALE="In a critical shutdown, applications that return FALSE to WM_QUERYENDSESSION will be sent WM_ENDSESSION and closed, while those that time out in response to WM_QUERYENDSESSION will be terminated." />
+    <REQUIREMENT NUMBER="8" TITLE="Safe mode test" RATIONALE="By default, most drivers and services that did not come preinstalled with Windows are not started in Safe Mode. They should remain disabled unless they are needed for basic operations of the system or for diagnostic and recovery purposes." />
+    <REQUIREMENT NUMBER="9" TITLE="Multiuser session test" RATIONALE="Windows users should be able to run concurrent sessions without conflict or disruption.  Applications must ensure that when running in multiple sessions either locally or remotely, the normal functionality of the application should not be impacted. Application settings and data files should not be persisted across users. A user’s privacy and preferences should be isolated to the user’s session." />
+    <REQUIREMENT NUMBER="10" TITLE="Crashes and hangs test" RATIONALE="Application failures such as crashes and hangs are a major disruption to users and cause frustration. Eliminating such failures improves application stability and reliability, and overall, provides users with a better application experience.">
+      <TEST INDEX="21" NAME="Crashes and hangs" DESCRIPTION="Do not crash or hang during the testing process." EXECUTIONTIME="00h:00m:07s.52ms">
+        <RESULT><![CDATA[PASS]]></RESULT>
+        <MESSAGES />
+      </TEST>
+    </REQUIREMENT>
+    <REQUIREMENT NUMBER="11" TITLE="Compatibility and resiliency test" RATIONALE="When Windows detects that an application has operated in an incompatible manner, it applies a compatibility fix that causes the application to behave correctly, ensuring a positive user experience. Applications should not rely on this behavior since it is only provided to allow legacy applications to work correctly on Windows." />
+    <REQUIREMENT NUMBER="12" TITLE="App manifest compliance test" RATIONALE="The package manifest was missing one or more required attributes.">
+      <TEST INDEX="31" NAME="App manifest" DESCRIPTION="App manifest must include valid entries for all required fields." EXECUTIONTIME="00h:00m:07s.72ms">
+        <RESULT><![CDATA[PASS]]></RESULT>
+        <MESSAGES />
+      </TEST>
+    </REQUIREMENT>
+    <REQUIREMENT NUMBER="13" TITLE="Windows security best practices test" RATIONALE="An application should not change the default Windows security settings." />
+    <REQUIREMENT NUMBER="14" TITLE="Windows security features test" RATIONALE="Applications must opt-into Windows security features.">
+      <TEST INDEX="33" NAME="Binary analyzer" DESCRIPTION="Analysis of security features enabled on binaries" EXECUTIONTIME="00h:00m:03s.90ms">
+        <RESULT><![CDATA[PASS]]></RESULT>
+        <MESSAGES />
+      </TEST>
+      <TEST INDEX="70" NAME="Banned file analyzer" DESCRIPTION="Analysis of application to detect known insecure files" EXECUTIONTIME="00h:00m:04s.33ms">
+        <RESULT><![CDATA[PASS]]></RESULT>
+        <MESSAGES />
+      </TEST>
+      <TEST INDEX="62" NAME="Private code signing" DESCRIPTION="App should not package private code signing key files." EXECUTIONTIME="00h:00m:09s.61ms">
+        <RESULT><![CDATA[PASS]]></RESULT>
+        <MESSAGES />
+      </TEST>
+    </REQUIREMENT>
+    <REQUIREMENT NUMBER="15" TITLE="Supported API test" RATIONALE="The application should only refer to the APIs allowed by the Windows SDK for Windows Store Apps.">
+      <TEST INDEX="38" NAME="Supported APIs" DESCRIPTION="Windows Store App must only use supported platform APIs." EXECUTIONTIME="00h:00m:07s.99ms">
+        <RESULT><![CDATA[PASS]]></RESULT>
+        <MESSAGES />
+      </TEST>
+    </REQUIREMENT>
+    <REQUIREMENT NUMBER="17" TITLE="Performance test" RATIONALE="The application should have a fast and responsive launch and suspend experience while consuming a reasonable amount of system resources (CPU, File IO, Memory etc.) to enable fast switching and multitasking between previously unopened applications.">
+      <TEST INDEX="50" NAME="Bytecode generation" DESCRIPTION="Byte code generation should be able to complete successfully for packages containing an HTML5 Windows Store app." EXECUTIONTIME="00h:00m:04s.11ms">
+        <RESULT><![CDATA[PASS]]></RESULT>
+        <MESSAGES />
+      </TEST>
+      <TEST INDEX="60" NAME="Optimized binding references" DESCRIPTION="When using bindings, WinJS.Binding.optimizeBindingReferences should be set to true to optimize the memory usage." EXECUTIONTIME="00h:00m:11s.86ms">
+        <RESULT><![CDATA[PASS]]></RESULT>
+        <MESSAGES />
+      </TEST>
+      <TEST INDEX="43" NAME="Performance launch" DESCRIPTION="Application should have a responsive launch time with reasonable CPU, File IO and Memory usage" EXECUTIONTIME="00h:02m:40s.70ms">
+        <RESULT><![CDATA[PASS]]></RESULT>
+        <MESSAGES />
+      </TEST>
+      <TEST INDEX="44" NAME="Performance suspend" DESCRIPTION="Application should have a responsive suspend with reasonable CPU and File IO usage" EXECUTIONTIME="00h:02m:33s.30ms">
+        <RESULT><![CDATA[PASS]]></RESULT>
+        <MESSAGES />
+      </TEST>
+    </REQUIREMENT>
+    <REQUIREMENT NUMBER="19" TITLE="App manifest resources test" RATIONALE="The App Package Manifest should have valid resources defined in the resources.pri file, as per the App Packaging Specification and App Manifest Schema.">
+      <TEST INDEX="45" NAME="App resources validation" DESCRIPTION="The package should have valid resources defined in the resources.pri file." EXECUTIONTIME="00h:00m:01s.18ms">
+        <RESULT><![CDATA[PASS]]></RESULT>
+        <MESSAGES />
+      </TEST>
+      <TEST INDEX="61" NAME="Branding validation" DESCRIPTION="App should not use the default images packed by windows SDK samples or Visual Studio." EXECUTIONTIME="00h:00m:12s.39ms">
+        <RESULT><![CDATA[PASS]]></RESULT>
+        <MESSAGES />
+      </TEST>
+    </REQUIREMENT>
+    <REQUIREMENT NUMBER="20" TITLE="Debug configuration test" RATIONALE="The App should not install any debug binaries.">
+      <TEST INDEX="46" NAME="Debug configuration" DESCRIPTION="The App should not install any debug binaries." EXECUTIONTIME="00h:00m:07s.89ms">
+        <RESULT><![CDATA[PASS]]></RESULT>
+        <MESSAGES />
+      </TEST>
+    </REQUIREMENT>
+    <REQUIREMENT NUMBER="21" TITLE="File encoding test" RATIONALE="Packages containing an HTML5 Windows Store app must have correct file encoding.">
+      <TEST INDEX="49" NAME="UTF-8 file encoding" DESCRIPTION="Packages containing an HTML5 Windows Store app must have correct file encoding." EXECUTIONTIME="00h:00m:07s.81ms">
+        <RESULT><![CDATA[PASS]]></RESULT>
+        <MESSAGES />
+      </TEST>
+    </REQUIREMENT>
+    <REQUIREMENT NUMBER="22" TITLE="Direct3D Feature Test" RATIONALE="App should use the Direct3D capability correctly.">
+      <TEST INDEX="51" NAME="Direct3D feature level support" DESCRIPTION="Applications must render content on Direct3D feature level 9.1 hardware." EXECUTIONTIME="00h:00m:00s.76ms">
+        <RESULT><![CDATA[PASS]]></RESULT>
+        <MESSAGES />
+      </TEST>
+    </REQUIREMENT>
+    <REQUIREMENT NUMBER="23" TITLE="App Capabilities test" RATIONALE="Packages declaring special-use capabilities will have to provide justifications during the onboarding process.">
+      <TEST INDEX="52" NAME="Special use capabilities" DESCRIPTION="Packages declaring special-use capabilities will have to provide justifications during the onboarding process." EXECUTIONTIME="00h:00m:05s.40ms">
+        <RESULT><![CDATA[PASS]]></RESULT>
+        <MESSAGES />
+      </TEST>
+    </REQUIREMENT>
+    <REQUIREMENT NUMBER="24" TITLE="Windows Runtime metadata validation" RATIONALE="Metadata needs to be conformant and consistent across all generation sources.">
+      <TEST INDEX="56" NAME="ExclusiveTo attribute test" DESCRIPTION="A class must not implement an interface that is marked ExclusiveTo another class." EXECUTIONTIME="00h:00m:04s.03ms">
+        <RESULT><![CDATA[PASS]]></RESULT>
+        <MESSAGES />
+      </TEST>
+      <TEST INDEX="57" NAME="Type location test" DESCRIPTION="Types must be defined in the metadata file with the longest matching namespace." EXECUTIONTIME="00h:00m:01s.67ms">
+        <RESULT><![CDATA[PASS]]></RESULT>
+        <MESSAGES />
+      </TEST>
+      <TEST INDEX="55" NAME="Type name case-sensitivity test" DESCRIPTION="Namespace and type names must not vary only by casing." EXECUTIONTIME="00h:00m:03s.42ms">
+        <RESULT><![CDATA[PASS]]></RESULT>
+        <MESSAGES />
+      </TEST>
+      <TEST INDEX="54" NAME="Type name correctness test" DESCRIPTION="Only system types can be in the Windows namespace and no types can be in the global namespace." EXECUTIONTIME="00h:00m:03s.54ms">
+        <RESULT><![CDATA[PASS]]></RESULT>
+        <MESSAGES />
+      </TEST>
+      <TEST INDEX="58" NAME="General metadata correctness test" DESCRIPTION="Metadata files must meet various requirements in order to be valid and correct." EXECUTIONTIME="00h:00m:05s.38ms">
+        <RESULT><![CDATA[PASS]]></RESULT>
+        <MESSAGES />
+      </TEST>
+      <TEST INDEX="53" NAME="Properties test" DESCRIPTION="Write-only and indexer properties may not be used. Corresponding getter and setter methods must match in type." EXECUTIONTIME="00h:00m:01s.40ms">
+        <RESULT><![CDATA[PASS]]></RESULT>
+        <MESSAGES />
+      </TEST>
+    </REQUIREMENT>
+    <REQUIREMENT NUMBER="25" TITLE="Package sanity test" RATIONALE="Validation of the app package contents to ensure correctness.">
+      <TEST INDEX="63" NAME="Platform appropriate files" DESCRIPTION="App should not install files that do not match the target processor architecture." EXECUTIONTIME="00h:00m:12s.37ms">
+        <RESULT><![CDATA[PASS]]></RESULT>
+        <MESSAGES />
+      </TEST>
+      <TEST INDEX="66" NAME="Supported directory structure check" DESCRIPTION="Validate each file in the package for that the file name length should be less than MAX_PATH." EXECUTIONTIME="00h:00m:05s.03ms">
+        <RESULT><![CDATA[PASS]]></RESULT>
+        <MESSAGES />
+      </TEST>
+    </REQUIREMENT>
+    <REQUIREMENT NUMBER="26" TITLE="High-DPI support" RATIONALE="The application needs to set DPI-aware to make the UI look consistently good across a wide variety of high-DPI display settings." />
+    <REQUIREMENT NUMBER="27" TITLE="Resource Usage Test" RATIONALE="WinJS background tasks need to call close() to free resource.">
+      <TEST INDEX="68" NAME="WinJS background task test" DESCRIPTION="WinJS background tasks need to call close() to free resource." EXECUTIONTIME="00h:00m:06s.51ms">
+        <RESULT><![CDATA[PASS]]></RESULT>
+        <MESSAGES />
+      </TEST>
+    </REQUIREMENT>
+  </REQUIREMENTS>
+  <APPLICATIONS>
+    <Installed_Programs>
+      <Program Name="37461kunjal.OrigamiforWindows8" Type="Application" Source="AppxPackage" Publisher="CN=6D45D15F-FCC8-49E0-9917-3708C2237BB5" Version="1.0.0.3" Language="1033" OnSystemDrive="true" RootDirPath="C:\Program Files\WindowsApps\37461kunjal.OrigamiforWindows8_1.0.0.3_neutral__7rp3sbrehvqbr" PathEvidenceId="0xa" RNP="0x1" DNP="0xd" EvidenceId="0xa" Id="0000dedfa43213a7067621c2f4ccf3be673200000904">
+        <Indicators>
+          <DirectoryIndicators>
+            <Directory Name="37461kunjal.origamiforwindows8_1.0.0.3_neutral__7rp3sbrehvqbr" Path="c:\program files\windowsapps\37461kunjal.origamiforwindows8_1.0.0.3_neutral__7rp3sbrehvqbr" RNP="0x9" DNP="0xb" UniqueId="0xb" Id="0000a6e124a412fa5e440630a8e760c807b9d87447d9" />
+            <Directory Name="groupdetail" Path="c:\program files\windowsapps\37461kunjal.origamiforwindows8_1.0.0.3_neutral__7rp3sbrehvqbr\pages\groupdetail" RNP="0x9" DNP="0xb" UniqueId="0x4a" Id="00003b4fc3c8ed2efc203806796fe64a580b9af9e6a9" />
+            <Directory Name="groupeditems" Path="c:\program files\windowsapps\37461kunjal.origamiforwindows8_1.0.0.3_neutral__7rp3sbrehvqbr\pages\groupeditems" RNP="0x9" DNP="0xb" UniqueId="0x4d" Id="00002759cc03e8ee5112bc439c75792087b754787de9" />
+            <Directory Name="itemdetail" Path="c:\program files\windowsapps\37461kunjal.origamiforwindows8_1.0.0.3_neutral__7rp3sbrehvqbr\pages\itemdetail" RNP="0x9" DNP="0xb" UniqueId="0x50" Id="0000876ea1abd821cc6c422d7df5d4d6203f744ca6ea" />
+            <Directory Name="preferences" Path="c:\program files\windowsapps\37461kunjal.origamiforwindows8_1.0.0.3_neutral__7rp3sbrehvqbr\pages\preferences" RNP="0x9" DNP="0xb" UniqueId="0x53" Id="0000fe5cd26b80ff3d9f1c8d9e15f5904c5860e2b54a" />
+            <Directory Name="about" Path="c:\program files\windowsapps\37461kunjal.origamiforwindows8_1.0.0.3_neutral__7rp3sbrehvqbr\pages\about" RNP="0x9" DNP="0xb" UniqueId="0x47" Id="000095a89a47482232b8213a02fc7ed3162546ee0da4" />
+            <Directory Name="pages" Path="c:\program files\windowsapps\37461kunjal.origamiforwindows8_1.0.0.3_neutral__7rp3sbrehvqbr\pages" RNP="0x9" DNP="0xb" UniqueId="0x46" Id="000019ff601290dc13568ff4c70ea07fd47a73f13ab3" />
+            <Directory Name="search" Path="c:\program files\windowsapps\37461kunjal.origamiforwindows8_1.0.0.3_neutral__7rp3sbrehvqbr\pages\search" RNP="0x9" DNP="0xb" UniqueId="0x56" Id="00005baf6023754dd66911dda566ec62e76f13623490" />
+            <Directory Name="js" Path="c:\program files\windowsapps\37461kunjal.origamiforwindows8_1.0.0.3_neutral__7rp3sbrehvqbr\js" RNP="0x9" DNP="0xb" UniqueId="0x40" Id="0000ed830a2cad918e620bb3cae846c3985ea8ddae26" />
+          </DirectoryIndicators>
+          <WindowsStoreAppManifestIndicators>
+            <PackageManifest PackageFullName="37461kunjal.origamiforwindows8_1.0.0.3_neutral__7rp3sbrehvqbr">
+              <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:build="http://schemas.microsoft.com/developer/appx/2012/build">
+                <Identity Name="37461kunjal.OrigamiforWindows8" Version="1.0.0.3" Publisher="CN=6D45D15F-FCC8-49E0-9917-3708C2237BB5" ProcessorArchitecture="neutral" />
+                <Properties>
+                  <DisplayName>Origami for Windows 8</DisplayName>
+                  <PublisherDisplayName>Vivek Talreja</PublisherDisplayName>
+                  <Logo>images\storelogo.png</Logo>
+                </Properties>
+                <Prerequisites>
+                  <OSMinVersion>6.2.1</OSMinVersion>
+                  <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+                </Prerequisites>
+                <Resources>
+                  <Resource Language="EN-US" />
+                </Resources>
+                <Applications>
+                  <Application Id="App" StartPage="default.html">
+                    <VisualElements DisplayName="Origami for Windows 8" Logo="images\logo.png" SmallLogo="images\smalllogo.png" Description="origami" ForegroundText="light" BackgroundColor="#0ae4e4">
+                      <DefaultTile ShowName="noLogos" />
+                      <SplashScreen Image="images\splashscreen.png" BackgroundColor="#0ae4e4" />
+                    </VisualElements>
+                    <Extensions>
+                      <Extension Category="windows.search" />
+                    </Extensions>
+                  </Application>
+                </Applications>
+                <Dependencies>
+                  <PackageDependency Name="Microsoft.WinJS.1.0" MinVersion="1.0.9200.20512" />
+                </Dependencies>
+              </Package>
+            </PackageManifest>
+          </WindowsStoreAppManifestIndicators>
+        </Indicators>
+        <StaticProperties>
+          <Files Id="0000af8860e6fe905bbc0b339eab32ae4aa66e652e48">
+            <File Name="resources.pri" Id="0000a57b8aaaf3b702816fc6acb5f0e24d97f0c23ce5" ShortName="RESOUR~1.PRI" Size="0x20548" BinaryType="UNKNOWN" Created="01/06/2014 06:55:17" Modified="01/06/2014 06:55:22" Path="c:\program files\windowsapps\37461kunjal.origamiforwindows8_1.0.0.3_neutral__7rp3sbrehvqbr" RNP="0xa" DNP="0x9" LowerCaseLongPath="c:\program files\windowsapps\37461kunjal.origamiforwindows8_1.0.0.3_neutral__7rp3sbrehvqbr\resources.pri" LongPathHash="00003aafd2d930c38123dd53f0c2d5080f400c8260f4" UniqueId="0xd" />
+            <File Name="default.html" Id="0000dea1bd3c7bf8eb44e7e79720a527a32444668acf" ShortName="DEFAUL~1.HTM" Size="0x411" BinaryType="UNKNOWN" Created="01/06/2014 06:55:16" Modified="01/06/2014 06:55:17" Path="c:\program files\windowsapps\37461kunjal.origamiforwindows8_1.0.0.3_neutral__7rp3sbrehvqbr" RNP="0xa" DNP="0x9" LowerCaseLongPath="c:\program files\windowsapps\37461kunjal.origamiforwindows8_1.0.0.3_neutral__7rp3sbrehvqbr\default.html" LongPathHash="0000599f50b63d81f8e083dfe7d062a630bc6b2def0a" UniqueId="0xc" />
+            <File Name="data.js" Id="000060be7d5826fcda0643087034ee3c22bf56ca457f" Size="0x3f7c" BinaryType="UNKNOWN" Created="01/06/2014 06:55:17" Modified="01/06/2014 06:55:22" Path="c:\program files\windowsapps\37461kunjal.origamiforwindows8_1.0.0.3_neutral__7rp3sbrehvqbr\js" RNP="0xa" DNP="0x9" LowerCaseLongPath="c:\program files\windowsapps\37461kunjal.origamiforwindows8_1.0.0.3_neutral__7rp3sbrehvqbr\js\data.js" LongPathHash="0000b8efd93de16ee838ee47930fe5f9441fb4ffa634" UniqueId="0x41" />
+            <File Name="default.js" Id="0000af473038fac8879e86135e091ff75d275cb545b0" Size="0x940" BinaryType="UNKNOWN" Created="01/06/2014 06:55:17" Modified="01/06/2014 06:55:22" Path="c:\program files\windowsapps\37461kunjal.origamiforwindows8_1.0.0.3_neutral__7rp3sbrehvqbr\js" RNP="0xa" DNP="0x9" LowerCaseLongPath="c:\program files\windowsapps\37461kunjal.origamiforwindows8_1.0.0.3_neutral__7rp3sbrehvqbr\js\default.js" LongPathHash="0000c9a42961ec76191c2ca749b3fda56b67efd93705" UniqueId="0x42" />
+            <File Name="navigator.js" Id="0000d05a747c7319d25a9e84ea45412f109751b074a9" ShortName="NAVIGA~1.JS" Size="0x18be" BinaryType="UNKNOWN" Created="01/06/2014 06:55:17" Modified="01/06/2014 06:55:22" Path="c:\program files\windowsapps\37461kunjal.origamiforwindows8_1.0.0.3_neutral__7rp3sbrehvqbr\js" RNP="0xa" DNP="0x9" LowerCaseLongPath="c:\program files\windowsapps\37461kunjal.origamiforwindows8_1.0.0.3_neutral__7rp3sbrehvqbr\js\navigator.js" LongPathHash="0000c1fa9f641cba3462eaed923e4b645172c9dedeb9" UniqueId="0x43" />
+            <File Name="preferences.js" Id="0000d4e9334f8fd966a2661a3cdc495121428b1d1b1b" ShortName="PREFER~1.JS" Size="0x332" BinaryType="UNKNOWN" Created="01/06/2014 06:55:17" Modified="01/06/2014 06:55:22" Path="c:\program files\windowsapps\37461kunjal.origamiforwindows8_1.0.0.3_neutral__7rp3sbrehvqbr\pages\preferences" RNP="0xa" DNP="0x9" LowerCaseLongPath="c:\program files\windowsapps\37461kunjal.origamiforwindows8_1.0.0.3_neutral__7rp3sbrehvqbr\pages\preferences\preferences.js" LongPathHash="0000c54c736255d775444e0f44dda2b1473d70bd2756" UniqueId="0x55" />
+            <File Name="about.html" Id="0000b2c846b0fec6abf48e83ede48732b5c89f96fd67" ShortName="ABOUT~1.HTM" Size="0x40d" BinaryType="UNKNOWN" Created="01/06/2014 06:55:17" Modified="01/06/2014 06:55:22" Path="c:\program files\windowsapps\37461kunjal.origamiforwindows8_1.0.0.3_neutral__7rp3sbrehvqbr\pages\about" RNP="0xa" DNP="0x9" LowerCaseLongPath="c:\program files\windowsapps\37461kunjal.origamiforwindows8_1.0.0.3_neutral__7rp3sbrehvqbr\pages\about\about.html" LongPathHash="0000a07b51e2101670630b016881ad1e00f10454e738" UniqueId="0x48" />
+            <File Name="groupDetail.html" Id="0000c2af00ef8be0133cd6237cc48b4cd8f341087f22" ShortName="GROUPD~1.HTM" Size="0x909" BinaryType="UNKNOWN" Created="01/06/2014 06:55:17" Modified="01/06/2014 06:55:22" Path="c:\program files\windowsapps\37461kunjal.origamiforwindows8_1.0.0.3_neutral__7rp3sbrehvqbr\pages\groupdetail" RNP="0xa" DNP="0x9" LowerCaseLongPath="c:\program files\windowsapps\37461kunjal.origamiforwindows8_1.0.0.3_neutral__7rp3sbrehvqbr\pages\groupdetail\groupdetail.html" LongPathHash="00007085c0b7d95b2aa853e10214a54ea6eb154cb329" UniqueId="0x4b" />
+            <File Name="groupDetail.js" Id="000058bc6974ded578f8e76489c09905b23bf4ba7a15" ShortName="GROUPD~1.JS" Size="0xd63" BinaryType="UNKNOWN" Created="01/06/2014 06:55:17" Modified="01/06/2014 06:55:22" Path="c:\program files\windowsapps\37461kunjal.origamiforwindows8_1.0.0.3_neutral__7rp3sbrehvqbr\pages\groupdetail" RNP="0xa" DNP="0x9" LowerCaseLongPath="c:\program files\windowsapps\37461kunjal.origamiforwindows8_1.0.0.3_neutral__7rp3sbrehvqbr\pages\groupdetail\groupdetail.js" LongPathHash="0000b5f48ea30eace6d8a5636db75597fae48f844006" UniqueId="0x4c" />
+            <File Name="search.html" Id="00003cda9dd423b10d909bd7422974688356ffd85b16" ShortName="SEARCH~1.HTM" Size="0x898" BinaryType="UNKNOWN" Created="01/06/2014 06:55:17" Modified="01/06/2014 06:55:22" Path="c:\program files\windowsapps\37461kunjal.origamiforwindows8_1.0.0.3_neutral__7rp3sbrehvqbr\pages\search" RNP="0xa" DNP="0x9" LowerCaseLongPath="c:\program files\windowsapps\37461kunjal.origamiforwindows8_1.0.0.3_neutral__7rp3sbrehvqbr\pages\search\search.html" LongPathHash="00008fc44717ccf41ab38bd1c0c662b1bd2977c65952" UniqueId="0x57" />
+            <File Name="groupedItems.js" Id="0000e1fb73ddb25df11563bc4274a08c721af5756efb" ShortName="GROUPE~1.JS" Size="0xf85" BinaryType="UNKNOWN" Created="01/06/2014 06:55:17" Modified="01/06/2014 06:55:22" Path="c:\program files\windowsapps\37461kunjal.origamiforwindows8_1.0.0.3_neutral__7rp3sbrehvqbr\pages\groupeditems" RNP="0xa" DNP="0x9" LowerCaseLongPath="c:\program files\windowsapps\37461kunjal.origamiforwindows8_1.0.0.3_neutral__7rp3sbrehvqbr\pages\groupeditems\groupeditems.js" LongPathHash="0000571230f09d1727a7fe25b10cd0a79f709cd636ab" UniqueId="0x4f" />
+            <File Name="about.js" Id="0000284ba3a0c8cbd063186776620f9af578ecdd82e3" Size="0x326" BinaryType="UNKNOWN" Created="01/06/2014 06:55:17" Modified="01/06/2014 06:55:22" Path="c:\program files\windowsapps\37461kunjal.origamiforwindows8_1.0.0.3_neutral__7rp3sbrehvqbr\pages\about" RNP="0xa" DNP="0x9" LowerCaseLongPath="c:\program files\windowsapps\37461kunjal.origamiforwindows8_1.0.0.3_neutral__7rp3sbrehvqbr\pages\about\about.js" LongPathHash="00001bf9d976245e779cc28b96e5cbeecda3dd71b3c1" UniqueId="0x49" />
+            <File Name="groupedItems.html" Id="00008bb27d5d64ef5010b536914a12d30547436e7ecf" ShortName="GROUPE~1.HTM" Size="0xa15" BinaryType="UNKNOWN" Created="01/06/2014 06:55:17" Modified="01/06/2014 06:55:22" Path="c:\program files\windowsapps\37461kunjal.origamiforwindows8_1.0.0.3_neutral__7rp3sbrehvqbr\pages\groupeditems" RNP="0xa" DNP="0x9" LowerCaseLongPath="c:\program files\windowsapps\37461kunjal.origamiforwindows8_1.0.0.3_neutral__7rp3sbrehvqbr\pages\groupeditems\groupeditems.html" LongPathHash="0000c72f4d8a13374c53ee93027c18ffe6a4a162a9ab" UniqueId="0x4e" />
+            <File Name="itemDetail.js" Id="0000d89912aad46cb7144b3c3668869de83ae7a314db" ShortName="ITEMDE~1.JS" Size="0xf68" BinaryType="UNKNOWN" Created="01/06/2014 06:55:17" Modified="01/06/2014 06:55:22" Path="c:\program files\windowsapps\37461kunjal.origamiforwindows8_1.0.0.3_neutral__7rp3sbrehvqbr\pages\itemdetail" RNP="0xa" DNP="0x9" LowerCaseLongPath="c:\program files\windowsapps\37461kunjal.origamiforwindows8_1.0.0.3_neutral__7rp3sbrehvqbr\pages\itemdetail\itemdetail.js" LongPathHash="000004cca82e9c8a413404e69ea265bbd0bc8af435e9" UniqueId="0x52" />
+            <File Name="preferences.html" Id="0000c9bfb5a30f6d9346c5dba8add1a652ae15ff7ab0" ShortName="PREFER~1.HTM" Size="0x416" BinaryType="UNKNOWN" Created="01/06/2014 06:55:17" Modified="01/06/2014 06:55:22" Path="c:\program files\windowsapps\37461kunjal.origamiforwindows8_1.0.0.3_neutral__7rp3sbrehvqbr\pages\preferences" RNP="0xa" DNP="0x9" LowerCaseLongPath="c:\program files\windowsapps\37461kunjal.origamiforwindows8_1.0.0.3_neutral__7rp3sbrehvqbr\pages\preferences\preferences.html" LongPathHash="0000fbd983d5244ec57b17160e195f4a71da9f268038" UniqueId="0x54" />
+            <File Name="itemDetail.html" Id="0000d6fbf036a09f62cdb7e0bd73f094ddc401b8d18e" ShortName="ITEMDE~1.HTM" Size="0x883" BinaryType="UNKNOWN" Created="01/06/2014 06:55:17" Modified="01/06/2014 06:55:22" Path="c:\program files\windowsapps\37461kunjal.origamiforwindows8_1.0.0.3_neutral__7rp3sbrehvqbr\pages\itemdetail" RNP="0xa" DNP="0x9" LowerCaseLongPath="c:\program files\windowsapps\37461kunjal.origamiforwindows8_1.0.0.3_neutral__7rp3sbrehvqbr\pages\itemdetail\itemdetail.html" LongPathHash="0000250b14596e551d8d0af03e6ea67931cc56311cdf" UniqueId="0x51" />
+            <File Name="search.js" Id="00003494fa9eaabb5060591f9bbad914c4aa2905725f" Size="0x26e5" BinaryType="UNKNOWN" Created="01/06/2014 06:55:17" Modified="01/06/2014 06:55:22" Path="c:\program files\windowsapps\37461kunjal.origamiforwindows8_1.0.0.3_neutral__7rp3sbrehvqbr\pages\search" RNP="0xa" DNP="0x9" LowerCaseLongPath="c:\program files\windowsapps\37461kunjal.origamiforwindows8_1.0.0.3_neutral__7rp3sbrehvqbr\pages\search\search.js" LongPathHash="000015b8060c2ef93b500a535c522a5e3296bcc6171c" UniqueId="0x58" />
+          </Files>
+        </StaticProperties>
+      </Program>
+    </Installed_Programs>
+  </APPLICATIONS>
+  <DEPENDENCY_INFORMATION>
+    <AitStaticAnalysis ProgramId="0000dedfa43213a7067621c2f4ccf3be673200000904" AnalysisVersion="1.60" DictionaryVersion="2.14" Type="Package" Id="37461kunjal.OrigamiforWindows8_1.0.0.3_neutral__7rp3sbrehvqbr">
+      <AitFile ErrorCode="0" Name="about.js" Id="0000284ba3a0c8cbd063186776620f9af578ecdd82e3">
+        <AitCategory Id="WRTJavaScript">
+          <AitFeature Name="WinJS.UI.Pages.define" />
+        </AitCategory>
+      </AitFile>
+      <AitFile ErrorCode="0" Name="search.js" Id="00003494fa9eaabb5060591f9bbad914c4aa2905725f">
+        <AitCategory Id="WRTJavaScript">
+          <AitFeature Name="WinJS.Application.addEventListener" />
+          <AitFeature Name="WinJS.Binding.List" />
+          <AitFeature Name="WinJS.Binding.converter" />
+          <AitFeature Name="WinJS.Binding.optimizeBindingReferences" />
+          <AitFeature Name="WinJS.Namespace.define" />
+          <AitFeature Name="WinJS.Navigation" />
+          <AitFeature Name="WinJS.UI" />
+          <AitFeature Name="WinJS.UI.ListView.prototype" />
+          <AitFeature Name="WinJS.Utilities" />
+          <AitFeature Name="Windows.ApplicationModel" />
+          <AitFeature Name="Windows.UI.ViewManagement.ApplicationView.value" />
+          <AitFeature Name="Windows.UI.ViewManagement.ApplicationViewState" />
+          <AitFeature Name="document.createElement" />
+          <AitFeature Name="document.querySelector" />
+          <AitFeature Name="location" />
+          <AitFeature Name="window.Data" />
+        </AitCategory>
+      </AitFile>
+      <AitFile ErrorCode="0" Name="search.html" Id="00003cda9dd423b10d909bd7422974688356ffd85b16">
+        <AitCategory Id="WRTJavaScript">
+          <AitFeature Name="WinJS" />
+          <AitFeature Name="WinJS.Binding.Template" />
+          <AitFeature Name="WinJS.UI.ListView" />
+        </AitCategory>
+      </AitFile>
+      <AitFile ErrorCode="0" Name="groupDetail.js" Id="000058bc6974ded578f8e76489c09905b23bf4ba7a15">
+        <AitCategory Id="WRTJavaScript">
+          <AitFeature Name="WinJS.Binding.List" />
+          <AitFeature Name="WinJS.Navigation.navigate" />
+          <AitFeature Name="WinJS.UI" />
+          <AitFeature Name="WinJS.UI.ListView.prototype" />
+          <AitFeature Name="Windows.UI.ViewManagement.ApplicationView.value" />
+          <AitFeature Name="Windows.UI.ViewManagement.ApplicationViewState" />
+        </AitCategory>
+      </AitFile>
+      <AitFile ErrorCode="0" Name="data.js" Id="000060be7d5826fcda0643087034ee3c22bf56ca457f">
+        <AitCategory Id="WRTJavaScript">
+          <AitFeature Name="WinJS.Binding.List" />
+          <AitFeature Name="WinJS.Namespace.define" />
+          <AitFeature Name="WinJS.xhr" />
+        </AitCategory>
+      </AitFile>
+      <AitFile ErrorCode="0" Name="groupedItems.html" Id="00008bb27d5d64ef5010b536914a12d30547436e7ecf">
+        <AitCategory Id="WRTJavaScript">
+          <AitFeature Name="WinJS" />
+          <AitFeature Name="WinJS.Binding.Template" />
+          <AitFeature Name="WinJS.UI.ListView" />
+        </AitCategory>
+      </AitFile>
+      <AitFile ErrorCode="0" Name="default.js" Id="0000af473038fac8879e86135e091ff75d275cb545b0">
+        <AitCategory Id="WRTJavaScript">
+          <AitFeature Name="WinJS.Application" />
+          <AitFeature Name="WinJS.Binding.optimizeBindingReferences" />
+          <AitFeature Name="WinJS.Navigation" />
+          <AitFeature Name="WinJS.UI.SettingsFlyout.populateSettings" />
+          <AitFeature Name="WinJS.UI.processAll" />
+          <AitFeature Name="Windows.ApplicationModel.Activation" />
+        </AitCategory>
+      </AitFile>
+      <AitFile ErrorCode="0" Name="about.html" Id="0000b2c846b0fec6abf48e83ede48732b5c89f96fd67">
+        <AitCategory Id="WRTJavaScript">
+          <AitFeature Name="WinJS" />
+          <AitFeature Name="WinJS.UI.SettingsFlyout" />
+          <AitFeature Name="WinJS.UI.SettingsFlyout.show" />
+        </AitCategory>
+      </AitFile>
+      <AitFile ErrorCode="0" Name="groupDetail.html" Id="0000c2af00ef8be0133cd6237cc48b4cd8f341087f22">
+        <AitCategory Id="WRTJavaScript">
+          <AitFeature Name="WinJS" />
+          <AitFeature Name="WinJS.Binding.Template" />
+          <AitFeature Name="WinJS.UI.ListView" />
+        </AitCategory>
+      </AitFile>
+      <AitFile ErrorCode="0" Name="preferences.html" Id="0000c9bfb5a30f6d9346c5dba8add1a652ae15ff7ab0">
+        <AitCategory Id="WRTJavaScript">
+          <AitFeature Name="WinJS" />
+          <AitFeature Name="WinJS.UI.SettingsFlyout" />
+          <AitFeature Name="WinJS.UI.SettingsFlyout.show" />
+          <AitFeature Name="WinJS.UI.ToggleSwitch" />
+        </AitCategory>
+      </AitFile>
+      <AitFile ErrorCode="0" Name="navigator.js" Id="0000d05a747c7319d25a9e84ea45412f109751b074a9">
+        <AitCategory Id="WRTJavaScript">
+          <AitFeature Name="WinJS.Class.define" />
+          <AitFeature Name="WinJS.Namespace.define" />
+          <AitFeature Name="WinJS.Navigation" />
+          <AitFeature Name="WinJS.Promise" />
+          <AitFeature Name="WinJS.Promise.as" />
+          <AitFeature Name="WinJS.Promise.timeout" />
+          <AitFeature Name="WinJS.UI.Animation.enterPage" />
+          <AitFeature Name="WinJS.UI.Pages.render" />
+          <AitFeature Name="Windows.UI.ViewManagement.ApplicationView" />
+          <AitFeature Name="document.body.onkeypress" />
+          <AitFeature Name="document.body.onkeyup" />
+          <AitFeature Name="document.body.onmspointerup" />
+          <AitFeature Name="document.createElement" />
+          <AitFeature Name="window.onresize" />
+        </AitCategory>
+      </AitFile>
+      <AitFile ErrorCode="0" Name="preferences.js" Id="0000d4e9334f8fd966a2661a3cdc495121428b1d1b1b">
+        <AitCategory Id="WRTJavaScript">
+          <AitFeature Name="WinJS.UI.Pages.define" />
+        </AitCategory>
+      </AitFile>
+      <AitFile ErrorCode="0" Name="itemDetail.html" Id="0000d6fbf036a09f62cdb7e0bd73f094ddc401b8d18e">
+        <AitCategory Id="WRTJavaScript">
+          <AitFeature Name="WinJS" />
+          <AitFeature Name="WinJS.UI.AppBar" />
+          <AitFeature Name="WinJS.UI.AppBarCommand" />
+        </AitCategory>
+      </AitFile>
+      <AitFile ErrorCode="0" Name="itemDetail.js" Id="0000d89912aad46cb7144b3c3668869de83ae7a314db">
+        <AitCategory Id="WRTJavaScript">
+          <AitFeature Name="WinJS.Binding.List" />
+          <AitFeature Name="WinJS.UI.Pages.define" />
+          <AitFeature Name="WinJS.xhr" />
+          <AitFeature Name="Windows.Foundation.Uri" />
+          <AitFeature Name="Windows.UI.StartScreen" />
+          <AitFeature Name="document.getElementById" />
+          <AitFeature Name="document.querySelector" />
+        </AitCategory>
+      </AitFile>
+      <AitFile ErrorCode="0" Name="default.html" Id="0000dea1bd3c7bf8eb44e7e79720a527a32444668acf">
+        <AitCategory Id="WRTJavaScript">
+          <AitFeature Name="WinJS" />
+          <AitFeature Name="WinJS.UI.AppBar" />
+          <AitFeature Name="WinJS.UI.AppBarCommand" />
+          <AitFeature Name="navigator.js" />
+        </AitCategory>
+      </AitFile>
+      <AitFile ErrorCode="0" Name="groupedItems.js" Id="0000e1fb73ddb25df11563bc4274a08c721af5756efb">
+        <AitCategory Id="WRTJavaScript">
+          <AitFeature Name="WinJS.Navigation" />
+          <AitFeature Name="WinJS.UI" />
+          <AitFeature Name="WinJS.UI.ListView.prototype" />
+          <AitFeature Name="WinJS.Utilities.Key.g" />
+          <AitFeature Name="Windows.UI.ViewManagement.ApplicationView" />
+          <AitFeature Name="Windows.UI.ViewManagement.ApplicationViewState" />
+        </AitCategory>
+      </AitFile>
+    </AitStaticAnalysis>
+  </DEPENDENCY_INFORMATION>
+</REPORT>

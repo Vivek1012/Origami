@@ -1,0 +1,66 @@
+﻿[
+"images/fish/dolphin/origami-dolphin-00A.jpg",
+"<h2>00A.This is the front side of paper.</h2>",
+
+"images/fish/dolphin/origami-dolphin-00B.jpg",
+"<h2>00B.This is the back side of paper.</h2>",
+
+"images/fish/dolphin/origami-dolphin-01.jpg",
+"<h2>01.Let us start with fish base . You should be able to learn how to make a fish base from the above link. </h2>",
+
+"images/fish/dolphin/origami-dolphin-02.jpg",
+"<h2>02.Turn the origami fish base over. Prepare to apply a horizontal valley-fold.</h2>",
+
+"images/fish/dolphin/origami-dolphin-03.jpg",
+"<h2>03.Apply the horizontal valley-fold of the step #2. Prepare to apply another horizontal valley-fold.</h2>",
+
+"images/fish/dolphin/origami-dolphin-04.jpg",
+"<h2>04.Apply the horizontal valley-fold of the step #3. Prepare to apply two asymmetric inside reverse-folds .</h2>",
+
+"images/fish/dolphin/origami-dolphin-05.jpg",
+"<h2>05.Start applying two asymmetric inside reverse-folds of the step #4.</h2>",
+
+"images/fish/dolphin/origami-dolphin-06.jpg",
+"<h2>06.Complete applying two asymmetric inside reverse-folds of the step #4.</h2>",
+
+"images/fish/dolphin/origami-dolphin-07.jpg",
+"<h2>07.Apply the horizontal valley-fold of the step #6. Prepare to apply a vertical valley-fold.</h2>",
+
+"images/fish/dolphin/origami-dolphin-08.jpg",
+"<h2>08.Apply the vertical valley-fold of the step #7. Prepare to apply a valley-fold.</h2>",
+
+"images/fish/dolphin/origami-dolphin-09.jpg",
+"<h2>09.Apply the valley-fold of the step #8. Prepare to turn the origami dolphin model over.</h2>",
+
+"images/fish/dolphin/origami-dolphin-10.jpg",
+"<h2>10.Turn the origami dolphin model over. Prepare to apply a valley-fold.</h2>",
+
+"images/fish/dolphin/origami-dolphin-11.jpg",
+"<h2>11.Apply the valley-fold of the step #10. Prepare to apply an inside reverse-fold .</h2>",
+
+"images/fish/dolphin/origami-dolphin-12.jpg",
+"<h2>12.Apply the inside reverse-fold of the step #11. Prepare to cut the tail along the dotted line.</h2>",
+
+"images/fish/dolphin/origami-dolphin-13.jpg",
+"<h2>13.Cut the tail along the dotted line of the step #12.</h2>",
+
+"images/fish/dolphin/origami-dolphin-14.jpg",
+"<h2>14.Apply the flat-fold of the step #13 to the front-most layer.</h2>",
+
+"images/fish/dolphin/origami-dolphin-15.jpg",
+"<h2>15.Apply the valley-fold of the step #14. Prepare to apply another valley-fold.</h2>",
+
+"images/fish/dolphin/origami-dolphin-16.jpg",
+"<h2>16.Apply the valley-fold of the step #15. Prepare to turn the origami dolphin model over.</h2>",
+
+"images/fish/dolphin/origami-dolphin-17.jpg",
+"<h2>17.Turn the origami dolphin model over.</h2>",
+
+"images/fish/dolphin/origami-dolphin-18.jpg",
+"<h2>18.Rotate the origami dolphin model by 90 degrees. </h2>",
+
+"images/fish/dolphin/origami-dolphin-19.jpg",
+"<h2>19.I put eye stickers here but you can draw eyes instead. Congratulation!</h2>"
+
+
+]

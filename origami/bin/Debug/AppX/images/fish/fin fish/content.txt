@@ -1,0 +1,85 @@
+﻿[
+"images/fish/fin fish/easy-origami-fish-00A.jpg",
+"<h2>00A.This is the front side of paper.</h2>",
+
+"images/fish/fin fish/easy-origami-fish-00B.jpg",
+"<h2>00B.This is the back side of paper.</h2>",
+
+"images/fish/fin fish/easy-origami-fish-01.jpg",
+"<h2>01.Let's start with the backside of paper facing up.</h2>",
+
+"images/fish/fin fish/easy-origami-fish-02.jpg",
+"<h2>02.Apply the horizontal valley-fold of the step #1 and then unfold.</h2>",
+
+"images/fish/fin fish/easy-origami-fish-03.jpg",
+"<h2>03.Apply a horizontal gate-fold . Prepare to apply four valley-folds.</h2>",
+
+"images/fish/fin fish/easy-origami-fish-04.jpg",
+"<h2>04.Apply four valley-folds of the step #3. Prepare to unfold four valley-folds that you have just applied.</h2>",
+
+"images/fish/fin fish/easy-origami-fish-05.jpg",
+"<h2>05.Unfold four valley-fold of the step #4. Prepare to apply another valley-fold and then unfold.</h2>",
+
+"images/fish/fin fish/easy-origami-fish-06.jpg",
+"<h2>06.Apply the valley-fold and then unfold according to the step #5.</h2>",
+
+"images/fish/fin fish/easy-origami-fish-07.jpg",
+"<h2>07.Apply the valley-fold and then unfold according to the step #6.</h2>",
+
+"images/fish/fin fish/easy-origami-fish-08.jpg",
+"<h2>08.Now, you must have six crease lines. Prepare to open the paper.</h2>",
+
+"images/fish/fin fish/easy-origami-fish-09.jpg",
+"<h2>09.Open the paper. Prepare to rotate the paper by 90 degrees in the clockwise direction.</h2>",
+
+"images/fish/fin fish/easy-origami-fish-10.jpg",
+"<h2>10.Rotate the paper by 90 degrees in the clockwise direction.</h2>",
+
+"images/fish/fin fish/easy-origami-fish-11.jpg",
+"<h2>11.Start to applying the CP of the step #10.</h2>",
+
+"images/fish/fin fish/easy-origami-fish-12.jpg",
+"<h2>12.Prepare to compress the model by following the arrow directions.</h2>",
+
+"images/fish/fin fish/easy-origami-fish-13.jpg",
+"<h2>13.Compress the model by following the arrow directions of the step #12.</h2>",
+
+"images/fish/fin fish/easy-origami-fish-14.jpg",
+"<h2>14.Start to open the center region.</h2>",
+
+"images/fish/fin fish/easy-origami-fish-15.jpg",
+"<h2>15.Fully open the center region. Prepare to press the shoulder down following the arrow directions.</h2>",
+
+"images/fish/fin fish/easy-origami-fish-16.jpg",
+"<h2>16.Start to press the side shoulder down.</h2>",
+
+"images/fish/fin fish/easy-origami-fish-17.jpg",
+"<h2>17.Keep pressing the shoulder until it touch the bottom. </h2>",
+
+"images/fish/fin fish/easy-origami-fish-18.jpg",
+"<h2>18.Start to close the lower part of the model.</h2>",
+
+"images/fish/fin fish/easy-origami-fish-19.jpg",
+"<h2>19.Continue closing the lower part.</h2>",
+
+"images/fish/fin fish/easy-origami-fish-20.jpg",
+"<h2>20.Complete closing the lower part. Prepare to move the upper part up following the arrows.</h2>",
+
+"images/fish/fin fish/easy-origami-fish-21.jpg",
+"<h2>21.Raise the upper part following the arrows of the step #20.</h2>",
+
+"images/fish/fin fish/easy-origami-fish-22.jpg",
+"<h2>22.Apply two inside reverse-folds of the step #21.</h2>",
+
+"images/fish/fin fish/easy-origami-fish-23.jpg",
+"<h2>23.Rotate the model by 90 degrees in the counter-clockwise direction. </h2>",
+
+"images/fish/fin fish/easy-origami-fish-24.jpg",
+"<h2>24.Apply the valley-fold of the step #23.</h2>",
+
+"images/fish/fin fish/easy-origami-fish-25.jpg",
+"<h2>25.Congratulation! You have just completed making an easy origami fish.</h2>",
+
+"images/fish/easy-origami-fish.jpg",
+"<h2>26.If you want, you can draw a eye or put googly eye</h2>"
+]

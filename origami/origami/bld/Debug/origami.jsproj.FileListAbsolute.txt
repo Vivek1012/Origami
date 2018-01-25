@@ -1,0 +1,13 @@
+c:\users\vivek\documents\visual studio 2012\Projects\origami\origami\bin\Debug\resources.pri
+c:\users\vivek\documents\visual studio 2012\Projects\origami\origami\bin\Debug\AppxManifest.xml
+c:\users\vivek\documents\visual studio 2012\Projects\origami\origami\bin\Debug\origami.build.appxrecipe
+c:\users\vivek\documents\visual studio 2012\Projects\origami\origami\bld\Debug\priconfig.xml.intermediate
+c:\users\vivek\documents\visual studio 2012\Projects\origami\origami\bld\Debug\layout.resfiles.intermediate
+c:\users\vivek\documents\visual studio 2012\Projects\origami\origami\bld\Debug\resources.resfiles.intermediate
+c:\users\vivek\documents\visual studio 2012\Projects\origami\origami\bld\Debug\pri.resfiles.intermediate
+c:\users\vivek\documents\visual studio 2012\Projects\origami\origami\bld\Debug\priconfig.xml
+c:\users\vivek\documents\visual studio 2012\Projects\origami\origami\bld\Debug\layout.resfiles
+c:\users\vivek\documents\visual studio 2012\Projects\origami\origami\bld\Debug\resources.resfiles
+c:\users\vivek\documents\visual studio 2012\Projects\origami\origami\bld\Debug\pri.resfiles
+c:\users\vivek\documents\visual studio 2012\Projects\origami\origami\bld\Debug\LanguageQualifiers.txt
+c:\users\vivek\documents\visual studio 2012\Projects\origami\origami\bld\Debug\ProjectArchitectures.txt

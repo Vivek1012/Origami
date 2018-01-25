@@ -1,0 +1,10 @@
+﻿[
+"images/folds/vally fold/valley-fold_01.jpg",
+"<h2>1.A simple dashed line represents a valley-fold while a dot-dashed line for a mountain-fold.</h2>",
+
+"images/folds/vally fold/valley-fold_02.jpg",
+"<h2>2.If a diagram shows a vertical dash line in the middle of the paper, it means you should valley-fold along the dash line.</h2>",
+
+"images/folds/vally fold/valley-fold_03.jpg",
+"<h2>3.If you apply a valley-fold to the dash line, the paper will be transformed to form a valley-shaped or V-shaped figure.</h2>"
+]

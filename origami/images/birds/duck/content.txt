@@ -1,0 +1,50 @@
+﻿[
+"images/birds/duck/origami-duck-00A.jpg",
+"<h2>00A.This is the front side of paper.</h2>",
+
+"images/birds/duck/origami-duck-00B.jpg",
+"<h2>00B.This is the back side of paper.</h2>",
+
+"images/birds/duck/origami-duck-01.jpg",
+"<h2>01.Let us start with a paper's back side facing up. </h2>",
+
+"images/birds/duck/origami-duck-02.jpg",
+"<h2>02.Apply the diagonal valley-fold of the step #1 and then unfold.</h2>",
+
+"images/birds/duck/origami-duck-03.jpg",
+"<h2>03.Apply two valley-folds of the step #2. </h2>",
+
+"images/birds/duck/origami-duck-04.jpg",
+"<h2>04.Apply two valley-folds of the step #3. Prepare to rotate the origami duck model by 45 degrees</h2>",
+
+"images/birds/duck/origami-duck-05.jpg",
+"<h2>05.Rotate the origami duck model by 45 degrees in the counter-clockwise direction. </h2>",
+
+"images/birds/duck/origami-duck-06.jpg",
+"<h2>06.Turn the origami duck model over. Prepare to apply a horizontal valley-fold.</h2>",
+
+"images/birds/duck/origami-duck-07.jpg",
+"<h2>07.Apply the horizontal valley-fold of the step #6.</h2>",
+
+"images/birds/duck/origami-duck-08.jpg",
+"<h2>08.Apply the outside reverse-fold of the step #7.</h2>",
+
+"images/birds/duck/origami-duck-09.jpg",
+"<h2>09.Apply the outside reverse-fold of the step #8. Prepare to apply an inside reverse-fold </h2>",
+
+"images/birds/duck/origami-duck-10.jpg",
+"<h2>10.Apply the inside reverse-fold of the step #9. Prepare to rotate the origami duck model by 90 degrees.</h2>",
+
+"images/birds/duck/origami-duck-11.jpg",
+"<h2>11.Rotate the origami duck model by 90 degrees. </h2>",
+
+"images/birds/duck/origami-duck-12.jpg",
+"<h2>12.Expand the body by inserting a finger into a pocket on each side.</h2>",
+
+"images/birds/duck/origami-duck-13.jpg",
+"<h2>13.Drop the origami duck model. This is the top view of the origami duck.</h2>",
+
+"images/birds/duck/origami-duck-14.jpg",
+"<h2>14.The origami duck can stand on the ground by itself. Congratulation!</h2>"
+
+]

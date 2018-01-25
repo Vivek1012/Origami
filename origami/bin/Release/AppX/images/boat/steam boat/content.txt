@@ -1,0 +1,60 @@
+﻿[
+
+"images/boat/steam boat/origami-steamboat-00A.jpg",
+"<h2>00A.This is the front side of paper.</h2>",
+
+"images/boat/steam boat/origami-steamboat-00B.jpg",
+"<h2>00B.This is the back side of paper.</h2>",
+
+"images/boat/steam boat/origami-steamboat-01.jpg",
+"<h2>01.First, Prepare to apply cushion-fold to the paper. </h2>",
+
+"images/boat/steam boat/origami-steamboat-02.jpg",
+"<h2>02.Apply the first cushion-fold of the step #1. Prepare to turn the model over.</h2>",
+
+"images/boat/steam boat/origami-steamboat-03.jpg",
+"<h2>03.Turn the model over. Prepare to apply the 2nd cushion-fold .</h2>",
+
+"images/boat/steam boat/origami-steamboat-04.jpg",
+"<h2>04.Apply the cushion-fold of the step #3. Prepare to turn the model over.</h2>",
+
+"images/boat/steam boat/origami-steamboat-05.jpg",
+"<h2>05.Turn the model over. Prepare to apply the 3rd cushion-fold </h2>",
+
+"images/boat/steam boat/origami-steamboat-06.jpg",
+"<h2>06.Apply the cushion-fold of the step #5. Prepare to turn the model over.</h2>",
+
+"images/boat/steam boat/origami-steamboat-07.jpg",
+"<h2>07.Turn the model over. Prepare to apply pocket-fold which consists of two mountain-folds and two flat-folds.</h2>",
+
+"images/boat/steam boat/origami-steamboat-08.jpg",
+"<h2>08.Start applying the pocket-fold by opening the bottom pocket.</h2>",
+
+"images/boat/steam boat/origami-steamboat-09.jpg",
+"<h2>09.Keep applying the pocket-fold by opening the bottom pocket fully.</h2>",
+
+"images/boat/steam boat/origami-steamboat-10.jpg",
+"<h2>10.Complete the pocket-fold by applying two mountain-folds at the left and the right bottom edges.</h2>",
+
+"images/boat/steam boat/origami-steamboat-11.jpg",
+"<h2>11.Apply the pocket-fold of the step #10. Prepare to pressure on four spots following the arrow directions.</h2>",
+
+"images/boat/steam boat/origami-steamboat-12.jpg",
+"<h2>12.Pressure on four spots following the arrow directions according to the step #11.</h2>",
+
+"images/boat/steam boat/origami-steamboat-13.jpg",
+"<h2>13.Start applying two mountain-folds and a valley-fold of the step #12.</h2>",
+
+"images/boat/steam boat/origami-steamboat-14.jpg",
+"<h2>14.Continue applying two mountain-folds and a valley-fold of the step #12.</h2>",
+
+"images/boat/steam boat/origami-steamboat-15.jpg",
+"<h2>15.Complete applying two mountain-folds and a valley-fold of the step #12. </h2>",
+
+"images/boat/steam boat/origami-steamboat-16.jpg",
+"<h2>16.Let the origami steamboat model stand on the ground by itself.</h2>",
+
+"images/boat/steam boat/origami-steamboat-17.jpg",
+"<h2>17.Congratulation! You have just completed making a traditional origami steamboat with double smokestacks.</h2>"
+
+]

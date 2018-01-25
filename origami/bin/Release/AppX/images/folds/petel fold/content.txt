@@ -1,0 +1,27 @@
+﻿[
+"images/folds/petel fold/fold-petal-00.jpg",
+"<h2>A simple case is to start with a square base. </h2>",
+
+"images/folds/petel fold/fold-petal-01.jpg",
+"<h2>1.First, prepare to apply three valley-folds in the numbered order.</h2>",
+
+"images/folds/petel fold/fold-petal-02.jpg",
+"<h2>2.Apply three valley-folds according to the step #1.</h2>",
+
+"images/folds/petel fold/fold-petal-03.jpg",
+"<h2>3.Unfold three previous valley-folds.</h2>",
+
+"images/folds/petel fold/fold-petal-04.jpg",
+"<h2>4.Lift the bottom corner upwards.</h2>",
+
+"images/folds/petel fold/fold-petal-05.jpg",
+"<h2>5.Continue lifting.</h2>",
+
+"images/folds/petel fold/fold-petal-06.jpg",
+"<h2>6.As you push the corner up, bring the edges in towards the middle and flatten them.</h2>",
+
+"images/folds/petel fold/fold-petal-07.jpg",
+"<h2>7.You now have completed making a petal-fold.</h2>"
+
+
+]

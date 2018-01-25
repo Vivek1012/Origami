@@ -1,0 +1,81 @@
+﻿[
+
+"images/boat/paper boat/paper-boat-00A.jpg",
+"<h2>00A.This is the front side of paper.</h2>",
+
+"images/boat/paper boat/paper-boat-00B.jpg",
+"<h2>00B.This is the back side of paper.</h2>",
+
+"images/boat/paper boat/paper-boat-01.jpg",
+"<h2>01.Prepare to apply valley-fold horizontally.</h2>",
+
+"images/boat/paper boat/paper-boat-02.jpg",
+"<h2>02.Valley-fold according to the step #1. Prepare to apply two valley-folds.</h2>",
+
+"images/boat/paper boat/paper-boat-03.jpg",
+"<h2>03.Apply two valley-folds. Prepare to rotate the model by 180 degrees.</h2>",
+
+"images/boat/paper boat/paper-boat-04.jpg",
+"<h2>04.Rotate the model by 180 degrees. Prepare to valley-fold.</h2>",
+
+"images/boat/paper boat/paper-boat-05.jpg",
+"<h2>05.Valley-fold according to the step #4. Prepare to turn the model over.</h2>",
+
+"images/boat/paper boat/paper-boat-06.jpg",
+"<h2>06.Turn the model over. Prepare to apply a valley-fold.</h2>",
+
+"images/boat/paper boat/paper-boat-07.jpg",
+"<h2>07.Valley-fold according to the step #6. Prepare to apply a pocket-fold.</h2>",
+
+"images/boat/paper boat/paper-boat-08.jpg",
+"<h2>08.Start to apply pocket-fold.</h2>",
+
+"images/boat/paper boat/paper-boat-09.jpg",
+"<h2>09.Continue applying the pocket-fold of the step #7.</h2>",
+
+"images/boat/paper boat/paper-boat-10.jpg",
+"<h2>10.Complete applying the pocket-fold. Prepare to rotate the model by 90 degrees.</h2>",
+
+"images/boat/paper boat/paper-boat-11.jpg",
+"<h2>11.Rotate the model by 90 degrees. Prepare to put the model down.</h2>",
+
+"images/boat/paper boat/paper-boat-12.jpg",
+"<h2>12.Put the model down. Prepare for a valley-fold.</h2>",
+
+"images/boat/paper boat/paper-boat-13.jpg",
+"<h2>13.Apply the valley-fold of the step #12. Prepare to turn the model over.</h2>",
+
+"images/boat/paper boat/paper-boat-14.jpg",
+"<h2>14.Turn the model over. Prepare for a valley-fold.</h2>",
+
+"images/boat/paper boat/paper-boat-15.jpg",
+"<h2>15.Valley-fold according to the step #14. As we have already shown in the step #7.</h2>",
+
+"images/boat/paper boat/paper-boat-16.jpg",
+"<h2>16.Start to apply the pocket-fold of the step #15.</h2>",
+
+"images/boat/paper boat/paper-boat-17.jpg",
+"<h2>17.Finish applying the pocket-fold. Prepare to roate the model by 90 degrees.</h2>",
+
+"images/boat/paper boat/paper-boat-18.jpg",
+"<h2>18.Rotate the model by 90 degrees. Prepare to grab the regions marked with dotted ellipses.</h2>",
+
+"images/boat/paper boat/paper-boat-19.jpg",
+"<h2>19.Grab two regions according to the step #18. Prepare to pull the edges outward following the arrows.</h2>",
+
+"images/boat/paper boat/paper-boat-20.jpg",
+"<h2>20.Keep fulling the edges outward.</h2>",
+
+"images/boat/paper boat/paper-boat-21.jpg",
+"<h2>21.Now, you have completed the pulling fold.</h2>",
+
+"images/boat/paper boat/paper-boat-22.jpg",
+"<h2>22.Turn the model over. Now, the bottom is up.</h2>",
+
+"images/boat/paper boat/paper-boat-23.jpg",
+"<h2>23.Widen the bottom pocket up a little.</h2>",
+
+"images/boat/paper boat/paper-boat-24.jpg",
+"<h2>24.Now, you have completed making traditional paper boat. You can just stop here. But you could do more if you want. </h2>"
+
+]

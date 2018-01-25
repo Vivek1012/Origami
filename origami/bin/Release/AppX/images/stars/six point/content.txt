@@ -1,0 +1,56 @@
+﻿[
+"images/stars/six point/origami-star-00A.jpg",
+"<h2>00A.This is the front side of the paper that I am using for this instruction.</h2>",
+
+"images/stars/six point/origami-star-00B.jpg",
+"<h2>00B.This is the back side of the paper.</h2>",
+
+"images/stars/six point/origami-star-01.jpg",
+"<h2>01.Let us start with the front side of the equilateral triangle facing up.</h2>",
+
+"images/stars/six point/origami-star-02.jpg",
+"<h2>02.Apply three valley-folds of the stgep #1 and then unfold. </h2>",
+
+"images/stars/six point/origami-star-03.jpg",
+"<h2>03.Apply three valley-folds of the step #2 and then unfold. </h2>",
+
+"images/stars/six point/origami-star-04.jpg",
+"<h2>04.Turn the equilateral triangle over. Prepare to apply a valley-fold.</h2>",
+
+"images/stars/six point/origami-star-05.jpg",
+"<h2>05.Apply the valley-fold of the step #4. Prepare to apply a valley-fold.</h2>",
+
+"images/stars/six point/origami-star-06.jpg",
+"<h2>06.Apply the valley-fold of the step #5. Prepare to apply another valley-fold.</h2>",
+
+"images/stars/six point/origami-star-07.jpg",
+"<h2>07.Apply the valley-fold. Prepare to apply a valley-fold.</h2>",
+
+"images/stars/six point/origami-star-08.jpg",
+"<h2>08.Apply the valley-fold of the step #7. Prepare to apply a valley-fold.</h2>",
+
+"images/stars/six point/origami-star-09.jpg",
+"<h2>09.Apply the valley-fold of the step #8. Prepare to apply a horizontal valley-fold.</h2>",
+
+"images/stars/six point/origami-star-10.jpg",
+"<h2>10.Apply the horizontal valley-fold of the step #9. Prepare to exchange two layers.</h2>",
+
+"images/stars/six point/origami-star-11.jpg",
+"<h2>11.Prepare to open the top layer.</h2>",
+
+"images/stars/six point/origami-star-12.jpg",
+"<h2>12.Open the top layer. Prepare to lift the upper-left layer.</h2>",
+
+"images/stars/six point/origami-star-13.jpg",
+"<h2>13.Lift the upper-left layer. Prepare to apply valley-fold.</h2>",
+
+"images/stars/six point/origami-star-14.jpg",
+"<h2>14.Apply the valley-fold of the step #13. Prepare to put the origami star on the ground.</h2>",
+
+"images/stars/six point/origami-star-15.jpg",
+"<h2>15.Put the origami star on the ground. Prepare to turn the origami star over.</h2>",
+
+"images/stars/six point/origami-star-16.jpg",
+"<h2>16.Turn the origami star over. Congratulation! You have now completed .</h2>"
+
+]

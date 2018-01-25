@@ -1,0 +1,26 @@
+﻿[
+"images/animals/dog/easy-origami-dog-00A.jpg",
+"<h2>00A.This is the front side of paper.</h2>",
+"images/animals/dog/easy-origami-dog-00B.jpg",
+"<h2>00B.This is the back side of paper.</h2>",
+"images/animals/dog/easy-origami-dog-01.jpg",
+"<h2>01.Let's start with the back side of the paper facing up.Prepare to apply a valley-fold.</h2>",
+"images/animals/dog/easy-origami-dog-02.jpg",
+"<h2>02.Apply the valley-fold of the step #1.Prepare to apply a mountain-fold.</h2>",
+"images/animals/dog/easy-origami-dog-03.jpg",
+"<h2>03.Apply the mountain-fold of the step #2.Prepare to apply a valley-fold.</h2>",
+"images/animals/dog/easy-origami-dog-04.jpg",
+"<h2>04.Apply the valley-folds of the step #3.Prepare to turn the model over.</h2>",
+"images/animals/dog/easy-origami-dog-05.jpg",
+"<h2>05.Turn the model over.Prepare to apply a valley-fold.</h2>",
+"images/animals/dog/easy-origami-dog-06.jpg",
+"<h2>06.Apply a valley-fold of the step #5.Prepare to apply a flat-fold.</h2>",
+"images/animals/dog/easy-origami-dog-07.jpg",
+"<h2>07.Apply the flat-fold of the step #6.Prepare for a valley-fold.</h2>",
+"images/animals/dog/easy-origami-dog-08.jpg",
+"<h2>08.Apply the valley-fold of the step #7.Prepare to draw two eyes or to put two googly eyes.</h2>",
+"images/animals/easy-origami-dog.jpg",
+"<h2>09.Here I put googly eyes.Congratulation!You have just completed making an easy origami dog.</h2>"
+
+
+]

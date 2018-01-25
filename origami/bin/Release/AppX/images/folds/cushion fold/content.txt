@@ -1,0 +1,27 @@
+﻿[
+"images/folds/cushion fold/fold-cushion-00.jpg",
+"<h2>0A.if there is a cushion fold, there will be a symbol consisting of six valley-folds.</h2>",
+
+"images/folds/cushion fold/fold-cushion-01.jpg",
+"<h2>1.Prepare to valley-fold in half horizontally.</h2>",
+
+"images/folds/cushion fold/fold-cushion-02.jpg",
+"<h2>2.Valley-fold in half horizontally.</h2>",
+
+"images/folds/cushion fold/fold-cushion-03.jpg",
+"<h2>3.Prepare to valley-fold in half vertically.</h2>",
+
+"images/folds/cushion fold/fold-cushion-04.jpg",
+"<h2>4.Valley-fold in half vertically.</h2>",
+
+"images/folds/cushion fold/fold-cushion-05.jpg",
+"<h2>5.Prepare to apply four valley-folds.</h2>",
+
+"images/folds/cushion fold/fold-cushion-06.jpg",
+"<h2>6.Apply one valley-fold on the bottom-right corner. But it can be any other corner.</h2>",
+
+"images/folds/cushion fold/fold-cushion-07.jpg",
+"<h2>7.Apply three other valley-folds. Now, you have completed applying cushion fold.</h2>"
+
+
+]

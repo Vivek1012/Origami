@@ -1,0 +1,11 @@
+﻿[
+
+"images/folds/mountain fold/valley-fold_01.jpg",
+"<h2>1.Here I use the blue color for a mountain-fold and the red color for a valley-fold just for a convenience.</h2>",
+
+"images/folds/mountain fold/mountain-fold_02.jpg",
+"<h2>2.If a diagram shows a vertical dot-dashed line in the middle of the paper, it means you should mountain-fold.</h2>",
+
+"images/folds/mountain fold/mountain-fold_03.jpg",
+"<h2>3.If you apply a mountain-fold to the dot-dashed line, the paper will be transformed to form a mountain-shaped</h2>"
+]

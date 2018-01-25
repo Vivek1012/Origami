@@ -1,0 +1,28 @@
+﻿[
+"images/folds/ballon fold/origami-fold-00A.jpg",
+"<h2>00A.The balloon-fold symbol is represented by valley-folded and mountain-folded lines.</h2>",
+
+"images/folds/ballon fold/origami-fold-00B.jpg",
+"<h2>00B.If we apply balloon-fold, then a square paper will be turned into a balloon base.</h2>",
+
+"images/folds/ballon fold/origami-fold-01.jpg",
+"<h2>01.We can start with a balloon paper. </h2>",
+
+"images/folds/ballon fold/origami-fold-02.jpg",
+"<h2>02.Apply the diagonal valley-fold of the step #1 and then unfold. </h2>",
+
+"images/folds/ballon fold/origami-fold-03.jpg",
+"<h2>03.Apply the diagonal valley-fold of the step #2 and then unfold.</h2>",
+
+"images/folds/ballon fold/origami-fold-04.jpg",
+"<h2>04.Apply the horizontal mountain-fold of the step #3 and then unfold. </h2>",
+
+"images/folds/ballon fold/origami-fold-05.jpg",
+"<h2>05.Prepare to apply two valley-folds first.</h2>",
+
+"images/folds/ballon fold/origami-fold-06.jpg",
+"<h2>06.Apply two valley-folds of the step #5. Prepare to flatten the model by pressing two edges </h2>",
+
+"images/folds/ballon fold/origami-fold-07.jpg",
+"<h2>07.Flatten the model by pressing two edges following the arrow directions of the step #6.</h2>"
+]

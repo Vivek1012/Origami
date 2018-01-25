@@ -1,0 +1,200 @@
+﻿body {
+background-image:url('../../bg-main.jpg');
+background-repeat:no-repeat;
+background-size:100% 100%;
+}
+#description {
+
+text-align:center;
+width:500px;
+padding-top:00px;
+border-top:2px dashed white;
+margin-left:50px;
+}
+
+.itemdetailpage .content {
+    -ms-grid-row: 1;
+    -ms-grid-row-span: 2;
+    display: block;
+    height: 100%;
+    overflow-x: auto;
+    position: relative;
+    width: 100%;
+    z-index: 0;
+}
+#in-image img {
+height:350px;
+width:350px;
+padding-left:130px;
+padding-top:40px;
+}
+
+#bu2 {
+margin-left:130px;
+background-image:url('../../left_arrow.png');
+background-repeat:no-repeat;
+background-position:center center;
+width:64px;
+height:64px;
+border-style:none;
+}
+#bu1 {
+    margin-right:00px;
+    float:right;
+background-image:url('../../right_arrow.png');
+background-repeat:no-repeat;
+background-position:center center;
+width:64px;
+height:64px;
+border-style:none;
+}
+
+    .itemdetailpage .content article {
+        /* Define a multi-column, horizontally scrolling article by default. */
+        column-fill: auto;
+        column-gap: 80px;
+        column-width: 480px;
+        height: calc(100% - 183px);
+        margin-left: 120px;
+        margin-top: 133px;
+        width: 480px;
+    }
+
+        .itemdetailpage .content article header .item-title {
+            margin-bottom: 19px;
+            padding-left:25px;
+            font-family:Arial;
+            font:normal;
+        }
+
+        .itemdetailpage .content article header .item-subtitle {
+            margin-bottom: 16px;
+            margin-top: 0px;
+        }
+
+        .itemdetailpage .content article .item-image {
+            padding-left:25px;            
+            height:350px;
+            width: 350px;
+            padding-bottom:20px;
+        }
+
+        .itemdetailpage .content article .item-content {
+            margin-top: 10px;
+            margin-bottom: 20px;
+            margin-right: 20px;
+            width:400px;
+        }
+
+
+
+
+
+
+
+
+
+@media screen and (-ms-view-state: snapped) {
+    .itemdetailpage .content {
+        -ms-grid-row: 2;
+        -ms-grid-row-span: 1;
+        overflow-x: hidden;
+        overflow-y: hidden;
+    }
+
+        .itemdetailpage .content article {
+            /* Define a single column, vertically scrolling article in snapped mode. */
+            -ms-grid-columns: 300px 1fr;
+            -ms-grid-row: 1;
+            -ms-grid-rows: auto 60px;
+            display: -ms-grid;
+            height: 100%;
+            margin-left: 00px;
+            margin-top: 6px;
+            width: 300px;
+        }
+
+            .itemdetailpage .content article header .item-title {
+                margin-bottom: 0px;
+            }
+
+            /*main image is not displayed*/
+            .itemdetailpage .content article .item-image {
+                height: 280px;
+                width: 280px;
+                padding-bottom: 10px;
+                display: none;
+            }
+    /*left button*/
+    #bu2 {
+        margin-left: 20px;
+        background-image: url('../../left_arrow.png');
+        background-repeat: no-repeat;
+        background-position: center center;
+        width: 64px;
+        height: 64px;
+        border-style: none;
+    }
+    /*right button*/
+    #bu1 {
+        float: right;
+        text-align: right;
+        background-image: url('../../right_arrow.png');
+        background-repeat: no-repeat;
+        background-position: center center;
+        width: 64px;
+        height: 64px;
+        border-style: none;
+    }
+
+    #in-image img {
+        height: 280px;
+        width: 280px;
+        margin-left: 00px;
+        padding-left: 20px;
+        padding-top: 0px;
+    }
+
+
+
+    /*content is not displayed*/
+    .itemdetailpage .content article .item-content {
+        padding-bottom: 0px;
+        display: none;
+    }
+
+    #description {
+        text-align: center;
+        width: 320px;
+        padding-top: 00px;
+        border-top: 2px dashed white;
+        margin-left: 00px;
+    }
+    /*this is not working*/
+}
+
+
+
+
+@media screen and (-ms-view-state: fullscreen-portrait) {
+    .itemdetailpage .content article {
+        margin-left: 100px;
+    }
+        .itemdetailpage .content article .item-content {
+        margin-left: 100px;
+        
+        
+        }
+
+        .itemdetailpage .content article header .item-title {
+        font-size:30px;
+        text-align:center;
+        font-style:inherit;
+        margin-left:120px;
+        border-bottom:2px solid white;
+
+        }
+        .itemdetailpage .content article .item-image {
+            margin-left: 100px;
+        }
+}

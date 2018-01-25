@@ -1,0 +1,21 @@
+﻿[
+"images/folds/squash fold/fold-squash-00.jpg",
+"<h2>0A.A typical squash fold can be represented with mountain-fold and valley-fold.</h2>",
+
+"images/folds/squash fold/fold-squash-01.jpg",
+"<h2>1.First, prepare to apply half-valley fold. The typical valley-fold means 180 degrees folding of a paper. </h2>",
+
+"images/folds/squash fold/fold-squash-02.jpg",
+"<h2>2.Apply 90 degrees valley-fold. You can see the flap sticks out at the middle of the model.</h2>",
+
+"images/folds/squash fold/fold-squash-03.jpg",
+"<h2>3.Let's start to squash the flap. </h2>",
+
+"images/folds/squash fold/fold-squash-04.jpg",
+"<h2>4.Be sure to make the left and right sides to be symmetrical before finalizing the crease lines.</h2>",
+
+"images/folds/squash fold/fold-squash-05.jpg",
+"<h2>5.Now, the squash fold is completed.</h2>"
+
+
+]

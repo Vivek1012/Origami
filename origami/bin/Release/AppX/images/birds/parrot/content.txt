@@ -1,0 +1,50 @@
+﻿[
+"images/birds/parrot/origami-parrot-00A.jpg",
+"<h2>00A.This is the front side of paper.</h2>",
+
+"images/birds/parrot/origami-parrot-00B.jpg",
+"<h2>00B.This is the back side of paper.</h2>",
+
+"images/birds/parrot/origami-parrot-01.jpg",
+"<h2>01.Let us start with a paper's front side facing up.Prepare to rotate the paper by 45 degrees.</h2>",
+
+"images/birds/parrot/origami-parrot-02.jpg",
+"<h2>02.Rotate the paper by 45 degrees.Prepare to apply a vertical mountain-fold and then unfold.</h2>",
+
+"images/birds/parrot/origami-parrot-03.jpg",
+"<h2>03.Apply the vertical mountain-fold of the step #2 and then unfold. Prepare to apply two valley-folds.</h2>",
+
+"images/birds/parrot/origami-parrot-04.jpg",
+"<h2>04.Apply two valley-folds of the step #3.Prepare to turn the origami parrot model over.</h2>",
+
+"images/birds/parrot/origami-parrot-05.jpg",
+"<h2>05.Turn the origami parrot model over.Prepare to apply a vertical valley-fold.</h2>",
+
+"images/birds/parrot/origami-parrot-06.jpg",
+"<h2>06.Apply the vertical valley-fold of the step #5.Prepare to cut the origami parrot model along a dotted line.</h2>",
+
+"images/birds/parrot/origami-parrot-07.jpg",
+"<h2>07.Cut the origami parrot model along a dotted line.Prepare to apply a valley-fold.</h2>",
+
+"images/birds/parrot/origami-parrot-08.jpg",
+"<h2>08.Apply the valley-fold of the step #7.Prepare to apply a mountain-fold.</h2>",
+
+"images/birds/parrot/origami-parrot-09.jpg",
+"<h2>09.Apply the mountain-fold of the step #8.Prepare to apply a valley-fold.</h2>",
+
+"images/birds/parrot/origami-parrot-10.jpg",
+"<h2>10.Apply the valley-fold of the step #9.Repeat the same valley-fold on the other side too. </h2>",
+
+"images/birds/parrot/origami-parrot-11.jpg",
+"<h2>11.Apply the inside reverse-fold of the step #10.Prepare to apply an outside reverse-fold .</h2>",
+
+"images/birds/parrot/origami-parrot-12.jpg",
+"<h2>12.Apply the outside reverse-fold of the step #11.Prepare to draw eyes or put googly eyes.</h2>",
+
+"images/birds/parrot/origami-parrot-13.jpg",
+"<h2>13.Here I put two googly eyes but you can draw eyes instead </h2>",
+
+"images/birds/parrot/origami-parrot-14.jpg",
+"<h2>14.Let the origami parrot model stand on the ground by itself.Congratulation!</h2>"
+
+]

@@ -1,0 +1,16 @@
+﻿[
+"images/folds/outside reverse fold/fold-reverse-outside-01.jpg",
+"<h2>1.Here it is a kite base folded in half and we want to apply an outside reverse-fold.</h2>",
+
+"images/folds/outside reverse fold/fold-reverse-outside-02.jpg",
+"<h2>2.A typical diagram of outside reverse-fold consists of a valley-fold with two arrows which is shown on the left at (A).</h2>",
+
+"images/folds/outside reverse fold/fold-reverse-outside-03.jpg",
+"<h2>3.Now, let's apply the outside reverse-fold. Make sure that all three crease lines are valley-folded.</h2>",
+
+"images/folds/outside reverse fold/fold-reverse-outside-04.jpg",
+"<h2>4.After you completed applying the outside reverse-fold, you will get the one shown on the left.</h2>",
+
+"images/folds/outside reverse fold/fold-reverse-outside-05.jpg",
+"<h2>5.In a typical diagram, only two valley-folded symbols are given (shown in (A)</h2>"
+]

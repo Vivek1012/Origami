@@ -1,0 +1,49 @@
+﻿[
+"images/boat/catamaran/origami-boat-00A.jpg",
+"<h2>00A.This is the front side of paper.You may use any kind of paper to fold this origami boat, catamaran.</h2>",
+
+"images/boat/catamaran/origami-boat-00B.jpg",
+"<h2>00B.This is the back side of paper.</h2>",
+
+"images/boat/catamaran/origami-boat-01.jpg",
+"<h2>01.Start with the backside of the paper facing up.Prepare to apply a vertical gate-fold. </h2>",
+
+"images/boat/catamaran/origami-boat-02.jpg",
+"<h2>02.Apply the vertical gate-fold of the step #1.Prepare to unfold.</h2>",
+
+"images/boat/catamaran/origami-boat-03.jpg",
+"<h2>03.Unfold the previous fold of the step #2.Prepare to apply a horizontal gate-fold.</h2>",
+
+"images/boat/catamaran/origami-boat-04.jpg",
+"<h2>04.Apply the horizontal gate-fold .Prepare to unfold.</h2>",
+
+"images/boat/catamaran/origami-boat-05.jpg",
+"<h2>05.Unfold the previous gate-fold.Prepare to apply a diagonal valley-fold and then unfold.</h2>",
+
+"images/boat/catamaran/origami-boat-06.jpg",
+"<h2>06.Apply a diagonal valley-fold and then unfold according to the step #5 </h2>",
+
+"images/boat/catamaran/origami-boat-07.jpg",
+"<h2>07.Apply another diagonal valley-fold and then unfold according to the step #6.Now, you will have 8 crease lines.</h2>",
+
+"images/boat/catamaran/origami-boat-08.jpg",
+"<h2>08.Turn the paper over.Prepare to apply two inside reverse-folds .</h2>",
+
+"images/boat/catamaran/origami-boat-09.jpg",
+"<h2>09.Start applying two inside reverse-folds.</h2>",
+
+"images/boat/catamaran/origami-boat-10.jpg",
+"<h2>10.Continue applying two inside reverse-folds .</h2>",
+
+"images/boat/catamaran/origami-boat-11.jpg",
+"<h2>11.Complete applying two inside reverse-folds.</h2>",
+
+"images/boat/catamaran/origami-boat-12.jpg",
+"<h2>12.Lay the model down.Prepare to turn the model over.</h2>",
+
+"images/boat/catamaran/origami-boat-13.jpg",
+"<h2>13.Turn the model over.This is the top view.</h2>",
+
+"images/boat/origami-boat-traditional-catamaran.jpg",
+"<h2>14.You have just completed making traditional origami boat, catamaran.</h2>"
+]

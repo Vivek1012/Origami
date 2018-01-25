@@ -1,0 +1,57 @@
+﻿[
+
+"images/birds/hen/origami-hen-00A.jpg",
+"<h2>00A.This is the front side of paper.</h2>",
+
+"images/birds/hen/origami-hen-00B.jpg",
+"<h2>00B.This is the back side of paper.</h2>",
+
+"images/birds/hen/origami-hen-01.jpg",
+"<h2>01.Let us start with the frontside of the paper facing up.</h2>",
+
+"images/birds/hen/origami-hen-02.jpg",
+"<h2>02.Valley-fold in half horizontally. Prepare to apply two valley-folds.</h2>",
+
+"images/birds/hen/origami-hen-03.jpg",
+"<h2>03.Apply two valley-folds of the step #2. Prepare to turn the origami hen model over.</h2>",
+
+"images/birds/hen/origami-hen-04.jpg",
+"<h2>04.Turn the origami hen model over. Prepare to valley-fold in half vertically.</h2>",
+
+"images/birds/hen/origami-hen-05.jpg",
+"<h2>05.Valley-fold in half vertically. Prepare to apply a squash-fold .</h2>",
+
+"images/birds/hen/origami-hen-06.jpg",
+"<h2>06.Apply the squash-fold of the step #5. Prepare to turn the origami hen model over.</h2>",
+
+"images/birds/hen/origami-hen-07.jpg",
+"<h2>07.Turn the origami hen model over.Prepare to apply another squash-fold</h2>",
+
+"images/birds/hen/origami-hen-08.jpg",
+"<h2>08.Apply the squash-fold of the step #7.Prepare to turn the origami hen model over.</h2>",
+
+"images/birds/hen/origami-hen-09.jpg",
+"<h2>09.Turn the origami hen model over.Prepare to apply a valley-fold.</h2>",
+
+"images/birds/hen/origami-hen-10.jpg",
+"<h2>10.Apply the valley-fold of the step #9.Prepare to apply an inside reverse-fold .</h2>",
+
+"images/birds/hen/origami-hen-11.jpg",
+"<h2>11.Apply the inside reverse-fold of the step #10.Prepare to apply a valley-fold.</h2>",
+
+"images/birds/hen/origami-hen-12.jpg",
+"<h2>12.Apply the valley-fold of the step #11.Prepare to rotate the origami hen model by about 40 degrees.</h2>",
+
+"images/birds/hen/origami-hen-13.jpg",
+"<h2>13.Rotate the origami hen model by about 40 degrees.Prepare to apply a valley-fold only on the front-most layer.</h2>",
+
+"images/birds/hen/origami-hen-14.jpg",
+"<h2>14.Apply the valley-fold of the step #13 only on the front-most layer.</h2>",
+
+"images/birds/hen/origami-hen-15.jpg",
+"<h2>15.Apply the inside reverse-fold of the step #14 only on the 2nd layer.</h2>",
+
+"images/birds/hen/origami-hen-16.jpg",
+"<h2>16.Let the origami hen model to stand on the ground by itself.Congratulation!</h2>"
+
+]

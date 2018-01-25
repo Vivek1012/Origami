@@ -1,0 +1,62 @@
+﻿[
+"images/boat/magic boat/origami-boat-00A.jpg",
+"<h2>00A.This is the front side of paper. You may use any kind of paper to fold this origami boat.</h2>",
+
+"images/boat/magic boat/origami-boat-00B.jpg",
+"<h2>00B.This is the back side of paper.</h2>",
+
+"images/boat/magic boat/origami-boat-01.jpg",
+"<h2>01.Start with the backside of the paper facing up. Prepare to apply a vertical gate-fold. </h2>",
+
+"images/boat/magic boat/origami-boat-02.jpg",
+"<h2>02.Apply the vertical gate-fold of the step #1. Prepare to unfold.</h2>",
+
+"images/boat/magic boat/origami-boat-03.jpg",
+"<h2>03.Unfold the previous fold of the step #2. Prepare to apply a horizontal gate-fold .</h2>",
+
+"images/boat/magic boat/origami-boat-04.jpg",
+"<h2>04.Apply the horizontal gate-fold . Prepare to unfold.</h2>",
+
+"images/boat/magic boat/origami-boat-05.jpg",
+"<h2>05.Unfold the previous gate-fold. Prepare to apply a diagonal valley-fold and then unfold.</h2>",
+
+"images/boat/magic boat/origami-boat-06.jpg",
+"<h2>06.Apply a diagonal valley-fold and then unfold according to the step #5.</h2>",
+
+"images/boat/magic boat/origami-boat-07.jpg",
+"<h2>07.Apply another diagonal valley-fold and then unfold according to the step #6.</h2>",
+
+"images/boat/magic boat/origami-boat-08.jpg",
+"<h2>08.Apply two valley-folds and then unfold according to the step #7.</h2>",
+
+"images/boat/magic boat/origami-boat-09.jpg",
+"<h2>09.Turn the paper over.</h2>",
+
+"images/boat/magic boat/origami-boat-10.jpg",
+"<h2>10.Prepare to apply a valley-fold while preserving the mountain-folded crease lines.</h2>",
+
+"images/boat/magic boat/origami-boat-11.jpg",
+"<h2>11.Start appying the valley-fold.</h2>",
+
+"images/boat/magic boat/origami-boat-12.jpg",
+"<h2>12.Complete the valley-fold.</h2>",
+
+"images/boat/magic boat/origami-boat-13.jpg",
+"<h2>13.Prepare to apply two valley-folds.</h2>",
+
+"images/boat/magic boat/origami-boat-14.jpg",
+"<h2>14.Apply two valley-fold of the step #13.</h2>",
+
+"images/boat/magic boat/origami-boat-15.jpg",
+"<h2>15.You have just completed making a traditional origami magic boat.</h2>",
+
+"images/boat/magic boat/origami-boat-16.jpg",
+"<h2>16.Here I will show how the name of Magic Boat came from.</h2>",
+
+"images/boat/magic boat/origami-boat-17.jpg",
+"<h2>17.Ask your friend to grab the mainsail. After she/he grabs the mainsail, prepare to apply two valley-folds.</h2>",
+
+"images/boat/magic boat/origami-boat-18.jpg",
+"<h2>18.Apply two valley-folds. Now, the one that your friend grabbed is no longer the mainsail.</h2>"
+
+]

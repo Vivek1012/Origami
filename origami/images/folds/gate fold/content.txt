@@ -1,0 +1,26 @@
+﻿[
+"images/folds/gate fold/fold-gate-00A.jpg",
+"<h2>00A.A typical gate fold can be represented with two vertical valley-folds.</h2>",
+
+"images/folds/gate fold/fold-gate-00B.jpg",
+"<h2>00B.A typical gate fold can be represented with two horizontal valley-folds.</h2>",
+
+"images/folds/gate fold/fold-gate-01A.jpg",
+"<h2>1.We should apply the middle two folds, that is, a mountain-fold</h2>",
+
+"images/folds/gate fold/fold-gate-01B.jpg",
+"<h2>2.there are two lines, then the order of folding starts from the left or from the top.</h2>",
+
+"images/folds/gate fold/fold-gate-02A.jpg",
+"<h2>3.Prepare to apply two valley-folds vertically for vertical gate-fold. </h2>",
+
+"images/folds/gate fold/fold-gate-02B.jpg",
+"<h2>4.Prepare to apply two valley-folds horizontally for horizontal gate-fold.</h2>",
+
+"images/folds/gate fold/fold-gate-03A.jpg",
+"<h2>5.Apply two valley-folds vertically for vertical gate-fold.</h2>",
+
+"images/folds/gate fold/fold-gate-03B.jpg",
+"<h2>6.Apply two valley-folds horizontally for horizontal gate-fold.</h2>"
+
+]

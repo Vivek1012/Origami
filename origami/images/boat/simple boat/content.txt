@@ -1,0 +1,30 @@
+﻿[
+
+"images/boat/simple boat/origami-boat-00A.jpg",
+"<h2>00A.This is the front side of paper.</h2>",
+
+"images/boat/simple boat/origami-boat-00B.jpg",
+"<h2>00B.This is the back side of paper.</h2>",
+
+"images/boat/simple boat/origami-boat-01.jpg",
+"<h2>01.Let's start with the paper's backside facing up. Prepare to apply a diagonal valley-fold.</h2>",
+
+"images/boat/simple boat/origami-boat-02.jpg",
+"<h2>02.Apply a diagonal valley-fold of the step #1. Prepare to valley-fold and then unfold.</h2>",
+
+"images/boat/simple boat/origami-boat-03.jpg",
+"<h2>03.Valley-fold and then unfold according to the step #2. Prepare to apply another valley-fold.</h2>",
+
+"images/boat/simple boat/origami-boat-04.jpg",
+"<h2>04.Apply the valley-fold of the step #3. Prepare to unfold.</h2>",
+
+"images/boat/simple boat/origami-boat-05.jpg",
+"<h2>05.Unfold the previous valley-fold. Now, let's apply the outside reverse-fold . </h2>",
+
+"images/boat/simple boat/origami-boat-06.jpg",
+"<h2>06.Apply the outside reverse-fold of the step #5.</h2>",
+
+"images/boat/origami-boat-traditional-easy.jpg",
+"<h2>07.Congratulation! You have just completed making a traditional easy origami boat.</h2>"
+
+]

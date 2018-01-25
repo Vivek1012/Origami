@@ -1,0 +1,137 @@
+﻿[
+"images/birds/crane/origami-crane-00A.jpg",
+"<h2>00A.This is the front side of paper.</h2>",
+
+"images/birds/crane/origami-crane-00B.jpg",
+"<h2>00B.This is the back side of paper.</h2>",
+
+"images/birds/crane/origami-crane-01.jpg",
+"<h2>01.Let's start with a paper's front side facing up.</h2>",
+
+"images/birds/crane/origami-crane-02.jpg",
+"<h2>02.Apply the valley-fold of the step #1.</h2>",
+
+"images/birds/crane/origami-crane-03.jpg",
+"<h2>03.Prepare for a valley-fold along another diagonal line.</h2>",
+
+"images/birds/crane/origami-crane-04.jpg",
+"<h2>04.Valley-fold along the diagonal line.</h2>",
+
+"images/birds/crane/origami-crane-05.jpg",
+"<h2>05.Prepare to mountain-fold along the middle horizontal line.</h2>",
+
+"images/birds/crane/origami-crane-06.jpg",
+"<h2>06.Apply the mountain-fold of the step #5.</h2>",
+
+"images/birds/crane/origami-crane-07.jpg",
+"<h2>07.Prepare to mountain-fold along the middle vertical line.</h2>",
+
+"images/birds/crane/origami-crane-08.jpg",
+"<h2>08.Mountain-fold along the middle vertical line.</h2>",
+
+"images/birds/crane/origami-crane-09.jpg",
+"<h2>09.Grab two edges with fingers.Prepare to squeeze the model using the direction of given arrows.</h2>",
+
+"images/birds/crane/origami-crane-10.jpg",
+"<h2>10.Squeeze the model.</h2>",
+
+"images/birds/crane/origami-crane-11.jpg",
+"<h2>11.Prepare to move two fingers following the arrow directions.</h2>",
+
+"images/birds/crane/origami-crane-12.jpg",
+"<h2>12.Flatten the model. Prepare to rotate the model vertically by 90 degrees.</h2>",
+
+"images/birds/crane/origami-crane-13.jpg",
+"<h2>13.Rotate the model vertically by 90 degrees.</h2>",
+
+"images/birds/crane/origami-crane-14.jpg",
+"<h2>14.Lay the model down.Making of square base is now completed. </h2>",
+
+"images/birds/crane/origami-crane-15.jpg",
+"<h2>15.First, make sure that the open side is at the lower half.Prepare for two valley-folds.</h2>",
+
+"images/birds/crane/origami-crane-16.jpg",
+"<h2>16.Apply two valley-folds according to the step 15.Prepare for another valley-fold.</h2>",
+
+"images/birds/crane/origami-crane-17.jpg",
+"<h2>17.Valley-fold according to the step #16.Prepare to unfold three previous valley-folds.</h2>",
+
+"images/birds/crane/origami-crane-18.jpg",
+"<h2>18.Unfold all three valley-folds.</h2>",
+
+"images/birds/crane/origami-crane-19.jpg",
+"<h2>19.Let's begin so-called petal-fold.Lift the bottom corner upwards.</h2>",
+
+"images/birds/crane/origami-crane-20.jpg",
+"<h2>20.Continue lifting.</h2>",
+
+"images/birds/crane/origami-crane-21.jpg",
+"<h2>21.As you push the corner up, bring the edges in towards the middle and flatten them.</h2>",
+
+"images/birds/crane/origami-crane-22.jpg",
+"<h2>22.Now, you completed the petal-fold.</h2>",
+
+"images/birds/crane/origami-crane-23.jpg",
+"<h2>23.Prepare to turn the model over.</h2>",
+
+"images/birds/crane/origami-crane-24.jpg",
+"<h2>24.Turn the model over.Now, the situation is the same as the step #15.</h2>",
+
+"images/birds/crane/origami-crane-25.jpg",
+"<h2>25.Repeat the steps #15-22.The bird base is now completed.</h2>",
+
+"images/birds/crane/origami-crane-26.jpg",
+"<h2>26.Prepare for two valley-folds.</h2>",
+
+"images/birds/crane/origami-crane-27.jpg",
+"<h2>27.Apply two valley-folds according to the step #26.Prepare to turn the model over.</h2>",
+
+"images/birds/crane/origami-crane-28.jpg",
+"<h2>28.Turn the model over.Prepare for two valley-folds.Here we are repeating the step #26.</h2>",
+
+"images/birds/crane/origami-crane-29.jpg",
+"<h2>29.Apply two valley-folds of the step #28.Prepare to valley-fold the right side down to the left side.</h2>",
+
+"images/birds/crane/origami-crane-30.jpg",
+"<h2>30.Fold the right side down to the left side.Prepare to apply a so-called inside reverse-fold </h2>",
+
+"images/birds/crane/origami-crane-31.jpg",
+"<h2>31.Apply the inside reverse-fold of the step #30.Prepare to lay down the model.</h2>",
+
+"images/birds/crane/origami-crane-32.jpg",
+"<h2>32.Lay the model down.Prepare to valley-fold the left side down to the right side.</h2>",
+
+"images/birds/crane/origami-crane-33.jpg",
+"<h2>33.Valley-fold according to the step #32.Prepare to apply an inside reverse-fold.</h2>",
+
+"images/birds/crane/origami-crane-34.jpg",
+"<h2>34.Inside reverse-fold according to the step #33.Prepare to squeeze the model.</h2>",
+
+"images/birds/crane/origami-crane-35.jpg",
+"<h2>35.Flatten the model.The body structure is completed.</h2>",
+
+"images/birds/crane/origami-crane-36.jpg",
+"<h2>36.Let's look at the model from the front.</h2>",
+
+"images/birds/crane/origami-crane-37.jpg",
+"<h2>37.Apply the inside reverse-fold of the step #36.</h2>",
+
+"images/birds/crane/origami-crane-38.jpg",
+"<h2>38.Lay the model down.Prepare for a valley-fold.</h2>",
+
+"images/birds/crane/origami-crane-39.jpg",
+"<h2>39.Valley-fold the right wing.Prepare to look into the left wing,</h2>",
+
+"images/birds/crane/origami-crane-40.jpg",
+"<h2>40.Prepare to valley-fold the left wing also.</h2>",
+
+"images/birds/crane/origami-crane-41.jpg",
+"<h2>41.The crane is now completed.</h2>",
+
+"images/birds/crane/origami-crane-42.jpg",
+"<h2>42.If you want, you can make the body of the crane be expanded.</h2>",
+
+"images/birds/crane/origami-crane-43.jpg",
+"<h2>43.The crane with an expanded body is now completed.Congratulation!</h2>"
+
+]
